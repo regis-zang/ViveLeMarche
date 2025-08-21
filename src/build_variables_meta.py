@@ -1,68 +1,108 @@
-# src/build_variables_meta.py
-import pandas as pd
 from pathlib import Path
-from encoding_helpers import fix_mojibake
+import time
+import pandas as pd
 
-BASE = Path(__file__).resolve().parents[1]
-VARMOD = BASE / "raw" / "2022" / "varmod_MOBZELT_2022.csv"
-OUT = BASE / "data" / "variables_meta.csv"
-
-def read_varmod(p: Path) -> pd.DataFrame:
-    # INSEE costuma ser ; e UTF-8; tentamos UTF-8 e, se falhar, latin-1
+# --- helpers de encoding (corrigir mojibake) -------------------------------
+def fix_mojibake(s):
+    if not isinstance(s, str):
+        return s
     try:
-        df = pd.read_csv(p, sep=";", encoding="utf-8", low_memory=False)
-    except UnicodeDecodeError:
-        df = pd.read_csv(p, sep=";", encoding="latin-1", low_memory=False)
+        return s.encode("latin1").decode("utf-8")
+    except Exception:
+        return s
 
-    # Esperado nesse arquivo: COD_VAR, LIB_VAR, COD_MOD, LIB_MOD
-    expected = {"COD_VAR","LIB_VAR"}
+# --- tradução automática (Google) -----------------------------------------
+try:
+    from deep_translator import GoogleTranslator
+    HAS_TRANSLATOR = True
+except Exception:
+    HAS_TRANSLATOR = False
+
+def translate(text: str, target: str, source: str = "fr", sleep: float = 0.12) -> str:
+    """
+    Traduz FR -> target ('en' ou 'pt'). Se algo falhar, devolve o original.
+    Pequeno sleep para evitar rate limit.
+    """
+    if not HAS_TRANSLATOR or not isinstance(text, str) or not text.strip():
+        return text
+    try:
+        out = GoogleTranslator(source=source, target=target).translate(text)
+        if sleep:
+            time.sleep(sleep)
+        return out
+    except Exception:
+        return text
+
+# --- caminhos --------------------------------------------------------------
+BASE = Path(__file__).resolve().parents[1]
+INFILE = BASE / "raw" / "2022" / "varmod_MOBZELT_2022.csv"
+OUT    = BASE / "data" / "variables_meta.csv"
+
+def safe_read_varmod(path: Path) -> pd.DataFrame:
+    # INSEE costuma usar ; e UTF‑8; tenta UTF‑8 e cai para Latin‑1 se preciso
+    try:
+        df = pd.read_csv(path, sep=";", encoding="utf-8", low_memory=False)
+    except UnicodeDecodeError:
+        df = pd.read_csv(path, sep=";", encoding="latin-1", low_memory=False)
+
+    expected = {"COD_VAR", "LIB_VAR"}
     missing = expected - set(df.columns)
     if missing:
         raise ValueError(f"Colunas ausentes no varmod: {missing}")
 
-    # Seleciona apenas o par variável/descrição e tira duplicatas
-    meta = (df[["COD_VAR","LIB_VAR"]]
+    meta = (df[["COD_VAR", "LIB_VAR"]]
             .drop_duplicates()
-            .rename(columns={"COD_VAR":"variable",
-                             "LIB_VAR":"variable_label_fr"}))
+            .rename(columns={"COD_VAR": "variable",
+                             "LIB_VAR": "variable_label_fr"}))
 
-    # Limpeza e correção de acentuação
+    # limpeza e acentuação
     meta["variable"] = meta["variable"].astype(str).str.strip()
-    meta["variable_label_fr"] = meta["variable_label_fr"].astype(str).str.strip()
-    # Se vierem “Ã©/Ã‚” etc., corrige:
-    meta["variable_label_fr"] = meta["variable_label_fr"].map(fix_mojibake)
+    meta["variable_label_fr"] = (meta["variable_label_fr"]
+                                 .astype(str).str.strip()
+                                 .map(fix_mojibake))
 
-    # Prepara colunas para traduções
+    # cria colunas de tradução
     meta["variable_label_en"] = ""
     meta["variable_label_pt"] = ""
 
-    # Ordena para facilitar revisão
-    meta = meta.sort_values(["variable"], kind="stable")
-    return meta
+    return meta.sort_values("variable", kind="stable")
+
+def fill_translations(df: pd.DataFrame) -> pd.DataFrame:
+    # somente onde estiver vazio (preserva edições manuais/re-execuções)
+    m_en = df["variable_label_en"].astype(str).str.strip().eq("")
+    df.loc[m_en, "variable_label_en"] = df.loc[m_en, "variable_label_fr"]\
+        .apply(lambda x: translate(x, target="en"))
+
+    m_pt = df["variable_label_pt"].astype(str).str.strip().eq("")
+    df.loc[m_pt, "variable_label_pt"] = df.loc[m_pt, "variable_label_fr"]\
+        .apply(lambda x: translate(x, target="pt"))
+
+    return df
 
 def main():
     OUT.parent.mkdir(exist_ok=True)
-    meta = read_varmod(VARMOD)
+    meta = safe_read_varmod(INFILE)
 
-    # Se já existir, preserva traduções anteriores e só atualiza FR/ordem
+    # se já existe um catálogo, preserva traduções já feitas
     if OUT.exists():
         old = pd.read_csv(OUT, dtype=str).fillna("")
-        keep = old[["variable","variable_label_en","variable_label_pt"]]
-        meta = (meta
-                .merge(keep, on="variable", how="left", suffixes=("","_old")))
-        # usa as que já existiam quando presentes
-        meta["variable_label_en"] = meta["variable_label_en"].where(
-            meta["variable_label_en"].astype(str).str.len()>0, meta["variable_label_en_old"]
-        )
-        meta["variable_label_pt"] = meta["variable_label_pt"].where(
-            meta["variable_label_pt"].astype(str).str.len()>0, meta["variable_label_pt_old"]
-        )
-        meta = meta.drop(columns=[c for c in meta.columns if c.endswith("_old")])
+        keep = old[["variable", "variable_label_en", "variable_label_pt"]]
+        meta = (meta.merge(keep, on="variable", how="left", suffixes=("", "_old")))
+        for col in ("variable_label_en", "variable_label_pt"):
+            meta[col] = meta[col].where(meta[col].str.len() > 0, meta[f"{col}_old"])
+        meta.drop(columns=[c for c in meta.columns if c.endswith("_old")], inplace=True)
 
+    # traduz (se deep-translator estiver disponível)
+    if HAS_TRANSLATOR:
+        meta = fill_translations(meta)
+    else:
+        print("⚠️ deep-translator não instalado — pulando tradução automática.")
+
+    # ordena e salva (UTF‑8 + UTF‑8 BOM p/ Excel)
+    meta = meta.sort_values("variable", kind="stable")
     meta.to_csv(OUT, index=False, encoding="utf-8")
-    # Se quiser abrir no Excel sem “???” de acentos, salve também com BOM:
     meta.to_csv(OUT.with_suffix(".utf8sig.csv"), index=False, encoding="utf-8-sig")
-    print(f"Gerado: {OUT} (e {OUT.with_suffix('.utf8sig.csv')}) | {len(meta)} variáveis")
+    print(f"✅ Gerado: {OUT.name} e {OUT.with_suffix('.utf8sig.csv').name} | {len(meta)} variáveis")
 
 if __name__ == "__main__":
     main()

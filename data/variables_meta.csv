@@ -1,27 +1,27 @@
 variable,variable_label_fr,variable_label_en,variable_label_pt
-AGED,Âge détaillé (en différence de millésimes),,
-AGEREV,Âge en années révolues détaillé,,
-AGEREVQ,Âge quinquennal en années révolues,,
-ANAI,Année de naissance,,
-CS,Catégorie socioprofessionnelle en 29 postes,,
-DIPL,Diplôme le plus élevé,,
-EMPL,Condition d'emploi,,
-GS,Groupe socioprofessionnel en 6 postes,,
-ILETUDLT,Indicateur du lieu d'études par rapport au lieu de travail,,
-ILRLT,Indicateur du lieu de résidence par rapport au lieu de travail,,
-IPONDI,Poids de l'individu,,
-IRANLT,Indicateur de résidence antérieure au 1er janvier de l'année précédente (par rapport au lieu de travail),,
-METRODOMLT,Indicateur Métropole ou DOM du lieu de travail,,
-NA10,Activité économique en 10 postes (NA - A10),,
-NA17,Activité économique en 17 postes (NA - A17),,
-NA38,Activité économique en 38 postes (NA - A38),,
-NA5,Activité économique regroupée en 5 postes,,
-NA64,Activité économique en 64 postes (NA - A64),,
-NA88,Activité économique en 88 postes (NA - A88),,
-REGLT,Région du lieu de travail,,
-SEXE,Sexe,,
-STAT,Statut professionnel,,
-TACTD16,Type d'activité détaillé en 16 postes,,
-TP,Temps de travail,,
-TRANS,Mode de transport principal le plus souvent utilisé pour aller travailler,,
-ZELT,Zone d'emploi du lieu de travail,,
+AGED,Âge détaillé (en différence de millésimes),Detailed age (vintage difference),Idade detalhada (diferença vintage)
+AGEREV,Âge en années révolues détaillé,Age in overly detailed years,Idade em anos excessivamente detalhados
+AGEREVQ,Âge quinquennal en années révolues,Five -year age in over,Idade de cinco anos em terminado
+ANAI,Année de naissance,Year of birth,Ano de nascimento
+CS,Catégorie socioprofessionnelle en 29 postes,Socio -professional category in 29 positions,Categoria Socio -Professional em 29 posições
+DIPL,Diplôme le plus élevé,Highest diploma,Diploma mais alto
+EMPL,Condition d'emploi,Job condition,Condição de trabalho
+GS,Groupe socioprofessionnel en 6 postes,Socio -professional group in 6 positions,Grupo Socio -Profissional em 6 posições
+ILETUDLT,Indicateur du lieu d'études par rapport au lieu de travail,Indicator of the place of study in relation to the workplace,Indicador do local de estudo em relação ao local de trabalho
+ILRLT,Indicateur du lieu de résidence par rapport au lieu de travail,Indicator of the place of residence in relation to the workplace,Indicador do local de residência em relação ao local de trabalho
+IPONDI,Poids de l'individu,Weight of the individual,Peso do indivíduo
+IRANLT,Indicateur de résidence antérieure au 1er janvier de l'année précédente (par rapport au lieu de travail),Residence indicator prior to January 1 of the previous year (compared to the workplace),Indicador de residência antes de 1º de janeiro do ano anterior (em comparação com o local de trabalho)
+METRODOMLT,Indicateur Métropole ou DOM du lieu de travail,Métropole or DOM indicator of the workplace,Métropole ou indicador DOM do local de trabalho
+NA10,Activité économique en 10 postes (NA - A10),Economic activity in 10 positions (NA - A10),Atividade econômica em 10 posições (NA - A10)
+NA17,Activité économique en 17 postes (NA - A17),Economic activity in 17 positions (NA - A17),Atividade econômica em 17 posições (NA - A17)
+NA38,Activité économique en 38 postes (NA - A38),Economic activity in 38 positions (NA - A38),Atividade econômica em 38 posições (NA - A38)
+NA5,Activité économique regroupée en 5 postes,Economic activity grouped into 5 positions,Atividade econômica agrupada em 5 posições
+NA64,Activité économique en 64 postes (NA - A64),Economic activity in 64 positions (NA - A64),Atividade econômica em 64 posições (NA - A64)
+NA88,Activité économique en 88 postes (NA - A88),Economic activity in 88 positions (NA - A88),Atividade econômica em 88 posições (NA - A88)
+REGLT,Région du lieu de travail,Workplace region,Região do local de trabalho
+SEXE,Sexe,Sex,Sexo
+STAT,Statut professionnel,Professional status,Status profissional
+TACTD16,Type d'activité détaillé en 16 postes,Type of detailed activity in 16 posts,Tipo de atividade detalhada em 16 postagens
+TP,Temps de travail,Working time,Tempo de trabalho
+TRANS,Mode de transport principal le plus souvent utilisé pour aller travailler,Main mode of transport most often used to work,Modo de transporte principal costumava funcionar
+ZELT,Zone d'emploi du lieu de travail,Place of work area,Local de área de trabalho
