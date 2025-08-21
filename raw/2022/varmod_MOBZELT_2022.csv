@@ -1,0 +1,958 @@
+COD_VAR;LIB_VAR;COD_MOD;LIB_MOD;TYPE_VAR;LONG_VAR
+ZELT;Zone d'emploi du lieu de travail;0051;Alençon (0051);factor;4
+ZELT;Zone d'emploi du lieu de travail;0052;Arles (0052);factor;4
+ZELT;Zone d'emploi du lieu de travail;0053;Avignon (0053);factor;4
+ZELT;Zone d'emploi du lieu de travail;0054;Beauvais (0054);factor;4
+ZELT;Zone d'emploi du lieu de travail;0055;Bollène-Pierrelatte (0055);factor;4
+ZELT;Zone d'emploi du lieu de travail;0056;Cosne-Cours-sur-Loire (0056);factor;4
+ZELT;Zone d'emploi du lieu de travail;0057;Dreux (0057);factor;4
+ZELT;Zone d'emploi du lieu de travail;0058;La Vallée de la Bresle-Vimeu (0058);factor;4
+ZELT;Zone d'emploi du lieu de travail;0059;Mâcon (0059);factor;4
+ZELT;Zone d'emploi du lieu de travail;0060;Nevers (0060);factor;4
+ZELT;Zone d'emploi du lieu de travail;0061;Nogent-le-Rotrou (0061);factor;4
+ZELT;Zone d'emploi du lieu de travail;0062;Redon (0062);factor;4
+ZELT;Zone d'emploi du lieu de travail;0063;Ussel (0063);factor;4
+ZELT;Zone d'emploi du lieu de travail;0064;Valréas (0064);factor;4
+ZELT;Zone d'emploi du lieu de travail;0101;Côte sous le vent (0101);factor;4
+ZELT;Zone d'emploi du lieu de travail;0102;Est Grande Terre (0102);factor;4
+ZELT;Zone d'emploi du lieu de travail;0103;Marie-Galante (0103);factor;4
+ZELT;Zone d'emploi du lieu de travail;0104;Région Pointoise (0104);factor;4
+ZELT;Zone d'emploi du lieu de travail;0105;Sud Basse-Terre (0105);factor;4
+ZELT;Zone d'emploi du lieu de travail;0201;Le Centre-Atlantique (0201);factor;4
+ZELT;Zone d'emploi du lieu de travail;0202;Le Centre agglomération (0202);factor;4
+ZELT;Zone d'emploi du lieu de travail;0203;Le Nord-Atlantique (0203);factor;4
+ZELT;Zone d'emploi du lieu de travail;0204;Le Nord-Caraibe (0204);factor;4
+ZELT;Zone d'emploi du lieu de travail;0205;Le Sud (0205);factor;4
+ZELT;Zone d'emploi du lieu de travail;0206;Le Sud-Caraibe (0206);factor;4
+ZELT;Zone d'emploi du lieu de travail;0301;Est-littoral (0301);factor;4
+ZELT;Zone d'emploi du lieu de travail;0302;Ouest-Guyanais (0302);factor;4
+ZELT;Zone d'emploi du lieu de travail;0303;Savanes (0303);factor;4
+ZELT;Zone d'emploi du lieu de travail;0401;L'Est (0401);factor;4
+ZELT;Zone d'emploi du lieu de travail;0402;L'Ouest (0402);factor;4
+ZELT;Zone d'emploi du lieu de travail;0403;Le Nord (0403);factor;4
+ZELT;Zone d'emploi du lieu de travail;0404;Le Sud (0404);factor;4
+ZELT;Zone d'emploi du lieu de travail;1101;Cergy-Vexin (1101);factor;4
+ZELT;Zone d'emploi du lieu de travail;1102;Coulommiers (1102);factor;4
+ZELT;Zone d'emploi du lieu de travail;1103;Etampes (1103);factor;4
+ZELT;Zone d'emploi du lieu de travail;1104;Evry (1104);factor;4
+ZELT;Zone d'emploi du lieu de travail;1105;Fontainebleau-Nemours (1105);factor;4
+ZELT;Zone d'emploi du lieu de travail;1106;Marne-la-Vallée (1106);factor;4
+ZELT;Zone d'emploi du lieu de travail;1107;Meaux (1107);factor;4
+ZELT;Zone d'emploi du lieu de travail;1108;Melun (1108);factor;4
+ZELT;Zone d'emploi du lieu de travail;1109;Paris (1109);factor;4
+ZELT;Zone d'emploi du lieu de travail;1110;Provins (1110);factor;4
+ZELT;Zone d'emploi du lieu de travail;1111;Rambouillet (1111);factor;4
+ZELT;Zone d'emploi du lieu de travail;1112;Roissy (1112);factor;4
+ZELT;Zone d'emploi du lieu de travail;1113;Saclay (1113);factor;4
+ZELT;Zone d'emploi du lieu de travail;1114;Seine-Yvelinoise (1114);factor;4
+ZELT;Zone d'emploi du lieu de travail;1115;Versailles-Saint-Quentin (1115);factor;4
+ZELT;Zone d'emploi du lieu de travail;2401;Blois (2401);factor;4
+ZELT;Zone d'emploi du lieu de travail;2402;Bourges (2402);factor;4
+ZELT;Zone d'emploi du lieu de travail;2403;Chartres (2403);factor;4
+ZELT;Zone d'emploi du lieu de travail;2404;Châteaudun (2404);factor;4
+ZELT;Zone d'emploi du lieu de travail;2405;Châteauroux (2405);factor;4
+ZELT;Zone d'emploi du lieu de travail;2406;Chinon (2406);factor;4
+ZELT;Zone d'emploi du lieu de travail;2407;Gien (2407);factor;4
+ZELT;Zone d'emploi du lieu de travail;2408;Loches (2408);factor;4
+ZELT;Zone d'emploi du lieu de travail;2409;Montargis (2409);factor;4
+ZELT;Zone d'emploi du lieu de travail;2410;Orléans (2410);factor;4
+ZELT;Zone d'emploi du lieu de travail;2411;Pithiviers (2411);factor;4
+ZELT;Zone d'emploi du lieu de travail;2412;Romorantin-Lanthenay (2412);factor;4
+ZELT;Zone d'emploi du lieu de travail;2413;Tours (2413);factor;4
+ZELT;Zone d'emploi du lieu de travail;2414;Vendôme (2414);factor;4
+ZELT;Zone d'emploi du lieu de travail;2415;Vierzon (2415);factor;4
+ZELT;Zone d'emploi du lieu de travail;2701;Autun (2701);factor;4
+ZELT;Zone d'emploi du lieu de travail;2702;Auxerre (2702);factor;4
+ZELT;Zone d'emploi du lieu de travail;2703;Avallon (2703);factor;4
+ZELT;Zone d'emploi du lieu de travail;2704;Beaune (2704);factor;4
+ZELT;Zone d'emploi du lieu de travail;2705;Belfort (2705);factor;4
+ZELT;Zone d'emploi du lieu de travail;2706;Besançon (2706);factor;4
+ZELT;Zone d'emploi du lieu de travail;2707;Chalon-sur-Saône (2707);factor;4
+ZELT;Zone d'emploi du lieu de travail;2708;Charolais (2708);factor;4
+ZELT;Zone d'emploi du lieu de travail;2709;Châtillon-Montbard (2709);factor;4
+ZELT;Zone d'emploi du lieu de travail;2710;Creusot-Montceau (2710);factor;4
+ZELT;Zone d'emploi du lieu de travail;2711;Dijon (2711);factor;4
+ZELT;Zone d'emploi du lieu de travail;2712;Dole (2712);factor;4
+ZELT;Zone d'emploi du lieu de travail;2713;Lons-le-Saunier (2713);factor;4
+ZELT;Zone d'emploi du lieu de travail;2714;Montbéliard (2714);factor;4
+ZELT;Zone d'emploi du lieu de travail;2715;Pontarlier (2715);factor;4
+ZELT;Zone d'emploi du lieu de travail;2716;Saint-Claude (2716);factor;4
+ZELT;Zone d'emploi du lieu de travail;2717;Sens (2717);factor;4
+ZELT;Zone d'emploi du lieu de travail;2718;Vesoul (2718);factor;4
+ZELT;Zone d'emploi du lieu de travail;2801;Argentan (2801);factor;4
+ZELT;Zone d'emploi du lieu de travail;2802;Avranches (2802);factor;4
+ZELT;Zone d'emploi du lieu de travail;2803;Bernay (2803);factor;4
+ZELT;Zone d'emploi du lieu de travail;2804;Caen (2804);factor;4
+ZELT;Zone d'emploi du lieu de travail;2805;Cherbourg en Cotentin (2805);factor;4
+ZELT;Zone d'emploi du lieu de travail;2806;Coutances (2806);factor;4
+ZELT;Zone d'emploi du lieu de travail;2807;Dieppe-Caux maritime (2807);factor;4
+ZELT;Zone d'emploi du lieu de travail;2808;Evreux (2808);factor;4
+ZELT;Zone d'emploi du lieu de travail;2809;Flers (2809);factor;4
+ZELT;Zone d'emploi du lieu de travail;2810;Granville (2810);factor;4
+ZELT;Zone d'emploi du lieu de travail;2811;Honfleur Pont-Audemer (2811);factor;4
+ZELT;Zone d'emploi du lieu de travail;2812;L'Aigle (2812);factor;4
+ZELT;Zone d'emploi du lieu de travail;2813;Le Havre (2813);factor;4
+ZELT;Zone d'emploi du lieu de travail;2814;Lisieux (2814);factor;4
+ZELT;Zone d'emploi du lieu de travail;2815;Rouen (2815);factor;4
+ZELT;Zone d'emploi du lieu de travail;2816;Saint-Lô (2816);factor;4
+ZELT;Zone d'emploi du lieu de travail;2817;Vernon-Gisors (2817);factor;4
+ZELT;Zone d'emploi du lieu de travail;2818;Vire Normandie (2818);factor;4
+ZELT;Zone d'emploi du lieu de travail;2819;Yvetot-Vallée du Commerce (2819);factor;4
+ZELT;Zone d'emploi du lieu de travail;3201;Abbeville (3201);factor;4
+ZELT;Zone d'emploi du lieu de travail;3202;Amiens (3202);factor;4
+ZELT;Zone d'emploi du lieu de travail;3203;Arras (3203);factor;4
+ZELT;Zone d'emploi du lieu de travail;3204;Berck (3204);factor;4
+ZELT;Zone d'emploi du lieu de travail;3205;Béthune (3205);factor;4
+ZELT;Zone d'emploi du lieu de travail;3206;Boulogne-sur-Mer (3206);factor;4
+ZELT;Zone d'emploi du lieu de travail;3207;Calais (3207);factor;4
+ZELT;Zone d'emploi du lieu de travail;3208;Cambrai (3208);factor;4
+ZELT;Zone d'emploi du lieu de travail;3209;Château-Thierry (3209);factor;4
+ZELT;Zone d'emploi du lieu de travail;3210;Compiègne (3210);factor;4
+ZELT;Zone d'emploi du lieu de travail;3211;Creil (3211);factor;4
+ZELT;Zone d'emploi du lieu de travail;3212;Douai (3212);factor;4
+ZELT;Zone d'emploi du lieu de travail;3213;Dunkerque (3213);factor;4
+ZELT;Zone d'emploi du lieu de travail;3214;Laon (3214);factor;4
+ZELT;Zone d'emploi du lieu de travail;3215;Lens (3215);factor;4
+ZELT;Zone d'emploi du lieu de travail;3216;Lille (3216);factor;4
+ZELT;Zone d'emploi du lieu de travail;3217;Maubeuge (3217);factor;4
+ZELT;Zone d'emploi du lieu de travail;3218;Roubaix-Tourcoing (3218);factor;4
+ZELT;Zone d'emploi du lieu de travail;3219;Saint-Omer (3219);factor;4
+ZELT;Zone d'emploi du lieu de travail;3220;Saint-Quentin (3220);factor;4
+ZELT;Zone d'emploi du lieu de travail;3221;Soissons (3221);factor;4
+ZELT;Zone d'emploi du lieu de travail;3222;Valenciennes (3222);factor;4
+ZELT;Zone d'emploi du lieu de travail;4401;Bar-le-Duc (4401);factor;4
+ZELT;Zone d'emploi du lieu de travail;4402;Châlons-en-Champagne (4402);factor;4
+ZELT;Zone d'emploi du lieu de travail;4403;Charleville-Mézières (4403);factor;4
+ZELT;Zone d'emploi du lieu de travail;4404;Chaumont (4404);factor;4
+ZELT;Zone d'emploi du lieu de travail;4405;Colmar (4405);factor;4
+ZELT;Zone d'emploi du lieu de travail;4406;Épernay (4406);factor;4
+ZELT;Zone d'emploi du lieu de travail;4407;Épinal (4407);factor;4
+ZELT;Zone d'emploi du lieu de travail;4408;Forbach (4408);factor;4
+ZELT;Zone d'emploi du lieu de travail;4409;Haguenau (4409);factor;4
+ZELT;Zone d'emploi du lieu de travail;4410;Metz (4410);factor;4
+ZELT;Zone d'emploi du lieu de travail;4411;Mulhouse (4411);factor;4
+ZELT;Zone d'emploi du lieu de travail;4412;Nancy (4412);factor;4
+ZELT;Zone d'emploi du lieu de travail;4413;Reims (4413);factor;4
+ZELT;Zone d'emploi du lieu de travail;4414;Remiremont (4414);factor;4
+ZELT;Zone d'emploi du lieu de travail;4415;Romilly-sur-Seine (4415);factor;4
+ZELT;Zone d'emploi du lieu de travail;4416;Saint-Avold (4416);factor;4
+ZELT;Zone d'emploi du lieu de travail;4417;Saint-Dié-des-Vosges (4417);factor;4
+ZELT;Zone d'emploi du lieu de travail;4418;Saint-Louis (4418);factor;4
+ZELT;Zone d'emploi du lieu de travail;4419;Sarrebourg (4419);factor;4
+ZELT;Zone d'emploi du lieu de travail;4420;Sarreguemines (4420);factor;4
+ZELT;Zone d'emploi du lieu de travail;4421;Sedan (4421);factor;4
+ZELT;Zone d'emploi du lieu de travail;4422;Sélestat (4422);factor;4
+ZELT;Zone d'emploi du lieu de travail;4423;Strasbourg (4423);factor;4
+ZELT;Zone d'emploi du lieu de travail;4424;Thionville (4424);factor;4
+ZELT;Zone d'emploi du lieu de travail;4425;Troyes (4425);factor;4
+ZELT;Zone d'emploi du lieu de travail;4426;Verdun (4426);factor;4
+ZELT;Zone d'emploi du lieu de travail;4427;Vitry-le-François Saint-Dizier (4427);factor;4
+ZELT;Zone d'emploi du lieu de travail;5201;Ancenis (5201);factor;4
+ZELT;Zone d'emploi du lieu de travail;5202;Angers (5202);factor;4
+ZELT;Zone d'emploi du lieu de travail;5203;Challans (5203);factor;4
+ZELT;Zone d'emploi du lieu de travail;5204;Château-Gontier (5204);factor;4
+ZELT;Zone d'emploi du lieu de travail;5205;Châteaubriant (5205);factor;4
+ZELT;Zone d'emploi du lieu de travail;5206;Cholet (5206);factor;4
+ZELT;Zone d'emploi du lieu de travail;5207;Fontenay-le-Comte (5207);factor;4
+ZELT;Zone d'emploi du lieu de travail;5208;La Ferté-Bernard (5208);factor;4
+ZELT;Zone d'emploi du lieu de travail;5209;La Flèche (5209);factor;4
+ZELT;Zone d'emploi du lieu de travail;5210;La Roche-sur-Yon (5210);factor;4
+ZELT;Zone d'emploi du lieu de travail;5211;Laval (5211);factor;4
+ZELT;Zone d'emploi du lieu de travail;5212;Le Mans (5212);factor;4
+ZELT;Zone d'emploi du lieu de travail;5213;Les Herbiers-Montaigu (5213);factor;4
+ZELT;Zone d'emploi du lieu de travail;5214;Les Sables-d'Olonne (5214);factor;4
+ZELT;Zone d'emploi du lieu de travail;5215;Mayenne (5215);factor;4
+ZELT;Zone d'emploi du lieu de travail;5216;Nantes (5216);factor;4
+ZELT;Zone d'emploi du lieu de travail;5217;Pornic (5217);factor;4
+ZELT;Zone d'emploi du lieu de travail;5218;Sablé-sur-Sarthe (5218);factor;4
+ZELT;Zone d'emploi du lieu de travail;5219;Saint-Nazaire (5219);factor;4
+ZELT;Zone d'emploi du lieu de travail;5220;Saumur (5220);factor;4
+ZELT;Zone d'emploi du lieu de travail;5221;Segré-en-Anjou Bleu (5221);factor;4
+ZELT;Zone d'emploi du lieu de travail;5301;Auray (5301);factor;4
+ZELT;Zone d'emploi du lieu de travail;5302;Brest (5302);factor;4
+ZELT;Zone d'emploi du lieu de travail;5303;Carhaix-Plouguer (5303);factor;4
+ZELT;Zone d'emploi du lieu de travail;5304;Dinan (5304);factor;4
+ZELT;Zone d'emploi du lieu de travail;5305;Fougères (5305);factor;4
+ZELT;Zone d'emploi du lieu de travail;5306;Guingamp (5306);factor;4
+ZELT;Zone d'emploi du lieu de travail;5307;Lamballe-Armor (5307);factor;4
+ZELT;Zone d'emploi du lieu de travail;5308;Lannion (5308);factor;4
+ZELT;Zone d'emploi du lieu de travail;5309;Lorient (5309);factor;4
+ZELT;Zone d'emploi du lieu de travail;5310;Morlaix (5310);factor;4
+ZELT;Zone d'emploi du lieu de travail;5311;Ploërmel (5311);factor;4
+ZELT;Zone d'emploi du lieu de travail;5312;Pontivy-Loudéac (5312);factor;4
+ZELT;Zone d'emploi du lieu de travail;5313;Quimper (5313);factor;4
+ZELT;Zone d'emploi du lieu de travail;5314;Quimperlé (5314);factor;4
+ZELT;Zone d'emploi du lieu de travail;5315;Rennes (5315);factor;4
+ZELT;Zone d'emploi du lieu de travail;5316;Saint-Brieuc (5316);factor;4
+ZELT;Zone d'emploi du lieu de travail;5317;Saint-Malo (5317);factor;4
+ZELT;Zone d'emploi du lieu de travail;5318;Vannes (5318);factor;4
+ZELT;Zone d'emploi du lieu de travail;5319;Vitré (5319);factor;4
+ZELT;Zone d'emploi du lieu de travail;7501;Agen (7501);factor;4
+ZELT;Zone d'emploi du lieu de travail;7502;Angoulême (7502);factor;4
+ZELT;Zone d'emploi du lieu de travail;7503;Bayonne (7503);factor;4
+ZELT;Zone d'emploi du lieu de travail;7504;Bergerac (7504);factor;4
+ZELT;Zone d'emploi du lieu de travail;7505;Bordeaux (7505);factor;4
+ZELT;Zone d'emploi du lieu de travail;7506;Bressuire (7506);factor;4
+ZELT;Zone d'emploi du lieu de travail;7507;Brive-la-Gaillarde (7507);factor;4
+ZELT;Zone d'emploi du lieu de travail;7508;Châtellerault (7508);factor;4
+ZELT;Zone d'emploi du lieu de travail;7509;Cognac (7509);factor;4
+ZELT;Zone d'emploi du lieu de travail;7510;Dax (7510);factor;4
+ZELT;Zone d'emploi du lieu de travail;7511;Guéret (7511);factor;4
+ZELT;Zone d'emploi du lieu de travail;7512;La Rochelle (7512);factor;4
+ZELT;Zone d'emploi du lieu de travail;7513;La Teste-de-Buch (7513);factor;4
+ZELT;Zone d'emploi du lieu de travail;7514;Langon (7514);factor;4
+ZELT;Zone d'emploi du lieu de travail;7515;Lesparre-Médoc (7515);factor;4
+ZELT;Zone d'emploi du lieu de travail;7516;Libourne (7516);factor;4
+ZELT;Zone d'emploi du lieu de travail;7517;Limoges (7517);factor;4
+ZELT;Zone d'emploi du lieu de travail;7518;Marmande (7518);factor;4
+ZELT;Zone d'emploi du lieu de travail;7519;Mont-de-Marsan (7519);factor;4
+ZELT;Zone d'emploi du lieu de travail;7520;Niort (7520);factor;4
+ZELT;Zone d'emploi du lieu de travail;7521;Oloron-Sainte-Marie (7521);factor;4
+ZELT;Zone d'emploi du lieu de travail;7522;Pau (7522);factor;4
+ZELT;Zone d'emploi du lieu de travail;7523;Périgueux (7523);factor;4
+ZELT;Zone d'emploi du lieu de travail;7524;Poitiers (7524);factor;4
+ZELT;Zone d'emploi du lieu de travail;7525;Rochefort (7525);factor;4
+ZELT;Zone d'emploi du lieu de travail;7526;Royan (7526);factor;4
+ZELT;Zone d'emploi du lieu de travail;7527;Saint-Junien (7527);factor;4
+ZELT;Zone d'emploi du lieu de travail;7528;Saintes (7528);factor;4
+ZELT;Zone d'emploi du lieu de travail;7529;Sarlat-La-Canéda (7529);factor;4
+ZELT;Zone d'emploi du lieu de travail;7530;Thouars (7530);factor;4
+ZELT;Zone d'emploi du lieu de travail;7531;Tulle (7531);factor;4
+ZELT;Zone d'emploi du lieu de travail;7532;Villeneuve-sur-Lot (7532);factor;4
+ZELT;Zone d'emploi du lieu de travail;7601;Agde-Pézenas (7601);factor;4
+ZELT;Zone d'emploi du lieu de travail;7602;Albi (7602);factor;4
+ZELT;Zone d'emploi du lieu de travail;7603;Alès-Le Vigan (7603);factor;4
+ZELT;Zone d'emploi du lieu de travail;7604;Auch (7604);factor;4
+ZELT;Zone d'emploi du lieu de travail;7605;Bagnols-sur-Cèze (7605);factor;4
+ZELT;Zone d'emploi du lieu de travail;7606;Béziers (7606);factor;4
+ZELT;Zone d'emploi du lieu de travail;7607;Cahors (7607);factor;4
+ZELT;Zone d'emploi du lieu de travail;7608;Carcassonne-Limoux (7608);factor;4
+ZELT;Zone d'emploi du lieu de travail;7609;Castelsarrasin-Moissac (7609);factor;4
+ZELT;Zone d'emploi du lieu de travail;7610;Castres-Mazamet (7610);factor;4
+ZELT;Zone d'emploi du lieu de travail;7611;Figeac-Villefranche (7611);factor;4
+ZELT;Zone d'emploi du lieu de travail;7612;Foix-Pamiers (7612);factor;4
+ZELT;Zone d'emploi du lieu de travail;7613;Mende (7613);factor;4
+ZELT;Zone d'emploi du lieu de travail;7614;Millau (7614);factor;4
+ZELT;Zone d'emploi du lieu de travail;7615;Montauban (7615);factor;4
+ZELT;Zone d'emploi du lieu de travail;7616;Montpellier (7616);factor;4
+ZELT;Zone d'emploi du lieu de travail;7617;Narbonne (7617);factor;4
+ZELT;Zone d'emploi du lieu de travail;7618;Nîmes (7618);factor;4
+ZELT;Zone d'emploi du lieu de travail;7619;Nord-du-Lot (7619);factor;4
+ZELT;Zone d'emploi du lieu de travail;7620;Perpignan (7620);factor;4
+ZELT;Zone d'emploi du lieu de travail;7621;Rodez (7621);factor;4
+ZELT;Zone d'emploi du lieu de travail;7622;Saint-Gaudens (7622);factor;4
+ZELT;Zone d'emploi du lieu de travail;7623;Sète (7623);factor;4
+ZELT;Zone d'emploi du lieu de travail;7624;Tarbes-Lourdes (7624);factor;4
+ZELT;Zone d'emploi du lieu de travail;7625;Toulouse (7625);factor;4
+ZELT;Zone d'emploi du lieu de travail;8401;Annecy (8401);factor;4
+ZELT;Zone d'emploi du lieu de travail;8402;Aubenas (8402);factor;4
+ZELT;Zone d'emploi du lieu de travail;8403;Aurillac (8403);factor;4
+ZELT;Zone d'emploi du lieu de travail;8404;Belley (8404);factor;4
+ZELT;Zone d'emploi du lieu de travail;8405;Bourg en Bresse (8405);factor;4
+ZELT;Zone d'emploi du lieu de travail;8406;Bourgoin-Jallieu (8406);factor;4
+ZELT;Zone d'emploi du lieu de travail;8407;Chambéry (8407);factor;4
+ZELT;Zone d'emploi du lieu de travail;8408;Clermont-Ferrand (8408);factor;4
+ZELT;Zone d'emploi du lieu de travail;8409;Grenoble (8409);factor;4
+ZELT;Zone d'emploi du lieu de travail;8410;Issoire (8410);factor;4
+ZELT;Zone d'emploi du lieu de travail;8411;La Maurienne (8411);factor;4
+ZELT;Zone d'emploi du lieu de travail;8412;La Plaine du Forez (8412);factor;4
+ZELT;Zone d'emploi du lieu de travail;8413;La Tarentaise (8413);factor;4
+ZELT;Zone d'emploi du lieu de travail;8414;La Vallée de l'Arve (8414);factor;4
+ZELT;Zone d'emploi du lieu de travail;8415;Le Chablais (8415);factor;4
+ZELT;Zone d'emploi du lieu de travail;8416;Le Genevois Français (8416);factor;4
+ZELT;Zone d'emploi du lieu de travail;8417;Le Livradois (8417);factor;4
+ZELT;Zone d'emploi du lieu de travail;8418;Le Mont Blanc (8418);factor;4
+ZELT;Zone d'emploi du lieu de travail;8419;Le Puy en Velay (8419);factor;4
+ZELT;Zone d'emploi du lieu de travail;8420;Les Sources de la Loire (8420);factor;4
+ZELT;Zone d'emploi du lieu de travail;8421;Lyon (8421);factor;4
+ZELT;Zone d'emploi du lieu de travail;8422;Montélimar (8422);factor;4
+ZELT;Zone d'emploi du lieu de travail;8423;Montluçon (8423);factor;4
+ZELT;Zone d'emploi du lieu de travail;8424;Moulins (8424);factor;4
+ZELT;Zone d'emploi du lieu de travail;8425;Oyonnax (8425);factor;4
+ZELT;Zone d'emploi du lieu de travail;8426;Roanne (8426);factor;4
+ZELT;Zone d'emploi du lieu de travail;8427;Romans sur Isère (8427);factor;4
+ZELT;Zone d'emploi du lieu de travail;8428;Saint Etienne (8428);factor;4
+ZELT;Zone d'emploi du lieu de travail;8429;Saint Flour (8429);factor;4
+ZELT;Zone d'emploi du lieu de travail;8430;Tarare (8430);factor;4
+ZELT;Zone d'emploi du lieu de travail;8431;Valence (8431);factor;4
+ZELT;Zone d'emploi du lieu de travail;8432;Vichy (8432);factor;4
+ZELT;Zone d'emploi du lieu de travail;8433;Vienne-Annonay (8433);factor;4
+ZELT;Zone d'emploi du lieu de travail;8434;Villefranche-sur-Saône (8434);factor;4
+ZELT;Zone d'emploi du lieu de travail;8435;Voiron (8435);factor;4
+ZELT;Zone d'emploi du lieu de travail;9301;Aix-en-Provence (9301);factor;4
+ZELT;Zone d'emploi du lieu de travail;9302;Briançon (9302);factor;4
+ZELT;Zone d'emploi du lieu de travail;9303;Brignoles (9303);factor;4
+ZELT;Zone d'emploi du lieu de travail;9304;Cannes (9304);factor;4
+ZELT;Zone d'emploi du lieu de travail;9305;Carpentras (9305);factor;4
+ZELT;Zone d'emploi du lieu de travail;9306;Cavaillon (9306);factor;4
+ZELT;Zone d'emploi du lieu de travail;9307;Digne-les-Bains (9307);factor;4
+ZELT;Zone d'emploi du lieu de travail;9308;Draguignan (9308);factor;4
+ZELT;Zone d'emploi du lieu de travail;9309;Fréjus (9309);factor;4
+ZELT;Zone d'emploi du lieu de travail;9310;Gap (9310);factor;4
+ZELT;Zone d'emploi du lieu de travail;9311;Manosque (9311);factor;4
+ZELT;Zone d'emploi du lieu de travail;9312;Marseille (9312);factor;4
+ZELT;Zone d'emploi du lieu de travail;9313;Martigues-Salon (9313);factor;4
+ZELT;Zone d'emploi du lieu de travail;9314;Menton (9314);factor;4
+ZELT;Zone d'emploi du lieu de travail;9315;Nice (9315);factor;4
+ZELT;Zone d'emploi du lieu de travail;9316;Orange (9316);factor;4
+ZELT;Zone d'emploi du lieu de travail;9317;Sainte-Maxime (9317);factor;4
+ZELT;Zone d'emploi du lieu de travail;9318;Toulon (9318);factor;4
+ZELT;Zone d'emploi du lieu de travail;9401;Ajaccio (9401);factor;4
+ZELT;Zone d'emploi du lieu de travail;9402;Bastia (9402);factor;4
+ZELT;Zone d'emploi du lieu de travail;9403;Calvi (9403);factor;4
+ZELT;Zone d'emploi du lieu de travail;9404;Corte (9404);factor;4
+ZELT;Zone d'emploi du lieu de travail;9405;Ghisonaccia (9405);factor;4
+ZELT;Zone d'emploi du lieu de travail;9406;Porto-Vecchio (9406);factor;4
+ZELT;Zone d'emploi du lieu de travail;9407;Propriano (9407);factor;4
+REGLT;Région du lieu de travail;01;Guadeloupe;factor;2
+REGLT;Région du lieu de travail;02;Martinique;factor;2
+REGLT;Région du lieu de travail;03;Guyane;factor;2
+REGLT;Région du lieu de travail;04;La Réunion;factor;2
+REGLT;Région du lieu de travail;11;Île-de-France;factor;2
+REGLT;Région du lieu de travail;24;Centre-Val de Loire;factor;2
+REGLT;Région du lieu de travail;27;Bourgogne-Franche-Comté;factor;2
+REGLT;Région du lieu de travail;28;Normandie;factor;2
+REGLT;Région du lieu de travail;32;Hauts-de-France;factor;2
+REGLT;Région du lieu de travail;44;Grand Est;factor;2
+REGLT;Région du lieu de travail;52;Pays de la Loire;factor;2
+REGLT;Région du lieu de travail;53;Bretagne;factor;2
+REGLT;Région du lieu de travail;75;Nouvelle-Aquitaine;factor;2
+REGLT;Région du lieu de travail;76;Occitanie;factor;2
+REGLT;Région du lieu de travail;84;Auvergne-Rhône-Alpes;factor;2
+REGLT;Région du lieu de travail;93;Provence-Alpes-Côte d'Azur;factor;2
+REGLT;Région du lieu de travail;94;Corse;factor;2
+AGED;Âge détaillé (en différence de millésimes);015;15 ans;factor;3
+AGED;Âge détaillé (en différence de millésimes);016;16 ans;factor;3
+AGED;Âge détaillé (en différence de millésimes);017;17 ans;factor;3
+AGED;Âge détaillé (en différence de millésimes);018;18 ans;factor;3
+AGED;Âge détaillé (en différence de millésimes);019;19 ans;factor;3
+AGED;Âge détaillé (en différence de millésimes);020;20 ans;factor;3
+AGED;Âge détaillé (en différence de millésimes);021;21 ans;factor;3
+AGED;Âge détaillé (en différence de millésimes);022;22 ans;factor;3
+AGED;Âge détaillé (en différence de millésimes);023;23 ans;factor;3
+AGED;Âge détaillé (en différence de millésimes);024;24 ans;factor;3
+AGED;Âge détaillé (en différence de millésimes);025;25 ans;factor;3
+AGED;Âge détaillé (en différence de millésimes);026;26 ans;factor;3
+AGED;Âge détaillé (en différence de millésimes);027;27 ans;factor;3
+AGED;Âge détaillé (en différence de millésimes);028;28 ans;factor;3
+AGED;Âge détaillé (en différence de millésimes);029;29 ans;factor;3
+AGED;Âge détaillé (en différence de millésimes);030;30 ans;factor;3
+AGED;Âge détaillé (en différence de millésimes);031;31 ans;factor;3
+AGED;Âge détaillé (en différence de millésimes);032;32 ans;factor;3
+AGED;Âge détaillé (en différence de millésimes);033;33 ans;factor;3
+AGED;Âge détaillé (en différence de millésimes);034;34 ans;factor;3
+AGED;Âge détaillé (en différence de millésimes);035;35 ans;factor;3
+AGED;Âge détaillé (en différence de millésimes);036;36 ans;factor;3
+AGED;Âge détaillé (en différence de millésimes);037;37 ans;factor;3
+AGED;Âge détaillé (en différence de millésimes);038;38 ans;factor;3
+AGED;Âge détaillé (en différence de millésimes);039;39 ans;factor;3
+AGED;Âge détaillé (en différence de millésimes);040;40 ans;factor;3
+AGED;Âge détaillé (en différence de millésimes);041;41 ans;factor;3
+AGED;Âge détaillé (en différence de millésimes);042;42 ans;factor;3
+AGED;Âge détaillé (en différence de millésimes);043;43 ans;factor;3
+AGED;Âge détaillé (en différence de millésimes);044;44 ans;factor;3
+AGED;Âge détaillé (en différence de millésimes);045;45 ans;factor;3
+AGED;Âge détaillé (en différence de millésimes);046;46 ans;factor;3
+AGED;Âge détaillé (en différence de millésimes);047;47 ans;factor;3
+AGED;Âge détaillé (en différence de millésimes);048;48 ans;factor;3
+AGED;Âge détaillé (en différence de millésimes);049;49 ans;factor;3
+AGED;Âge détaillé (en différence de millésimes);050;50 ans;factor;3
+AGED;Âge détaillé (en différence de millésimes);051;51 ans;factor;3
+AGED;Âge détaillé (en différence de millésimes);052;52 ans;factor;3
+AGED;Âge détaillé (en différence de millésimes);053;53 ans;factor;3
+AGED;Âge détaillé (en différence de millésimes);054;54 ans;factor;3
+AGED;Âge détaillé (en différence de millésimes);055;55 ans;factor;3
+AGED;Âge détaillé (en différence de millésimes);056;56 ans;factor;3
+AGED;Âge détaillé (en différence de millésimes);057;57 ans;factor;3
+AGED;Âge détaillé (en différence de millésimes);058;58 ans;factor;3
+AGED;Âge détaillé (en différence de millésimes);059;59 ans;factor;3
+AGED;Âge détaillé (en différence de millésimes);060;60 ans;factor;3
+AGED;Âge détaillé (en différence de millésimes);061;61 ans;factor;3
+AGED;Âge détaillé (en différence de millésimes);062;62 ans;factor;3
+AGED;Âge détaillé (en différence de millésimes);063;63 ans;factor;3
+AGED;Âge détaillé (en différence de millésimes);064;64 ans;factor;3
+AGED;Âge détaillé (en différence de millésimes);065;65 ans;factor;3
+AGED;Âge détaillé (en différence de millésimes);066;66 ans;factor;3
+AGED;Âge détaillé (en différence de millésimes);067;67 ans;factor;3
+AGED;Âge détaillé (en différence de millésimes);068;68 ans;factor;3
+AGED;Âge détaillé (en différence de millésimes);069;69 ans;factor;3
+AGED;Âge détaillé (en différence de millésimes);070;70 ans;factor;3
+AGED;Âge détaillé (en différence de millésimes);071;71 ans;factor;3
+AGED;Âge détaillé (en différence de millésimes);072;72 ans;factor;3
+AGED;Âge détaillé (en différence de millésimes);073;73 ans;factor;3
+AGED;Âge détaillé (en différence de millésimes);074;74 ans;factor;3
+AGED;Âge détaillé (en différence de millésimes);075;75 ans;factor;3
+AGED;Âge détaillé (en différence de millésimes);076;76 ans;factor;3
+AGED;Âge détaillé (en différence de millésimes);077;77 ans;factor;3
+AGED;Âge détaillé (en différence de millésimes);078;78 ans;factor;3
+AGED;Âge détaillé (en différence de millésimes);079;79 ans;factor;3
+AGED;Âge détaillé (en différence de millésimes);080;80 ans;factor;3
+AGED;Âge détaillé (en différence de millésimes);081;81 ans;factor;3
+AGED;Âge détaillé (en différence de millésimes);082;82 ans;factor;3
+AGED;Âge détaillé (en différence de millésimes);083;83 ans;factor;3
+AGED;Âge détaillé (en différence de millésimes);084;84 ans;factor;3
+AGED;Âge détaillé (en différence de millésimes);085;85 ans;factor;3
+AGED;Âge détaillé (en différence de millésimes);086;86 ans;factor;3
+AGED;Âge détaillé (en différence de millésimes);087;87 ans;factor;3
+AGED;Âge détaillé (en différence de millésimes);088;88 ans;factor;3
+AGED;Âge détaillé (en différence de millésimes);089;89 ans;factor;3
+AGED;Âge détaillé (en différence de millésimes);090;90 ans;factor;3
+AGED;Âge détaillé (en différence de millésimes);091;91 ans;factor;3
+AGED;Âge détaillé (en différence de millésimes);092;92 ans;factor;3
+AGED;Âge détaillé (en différence de millésimes);093;93 ans;factor;3
+AGED;Âge détaillé (en différence de millésimes);094;94 ans;factor;3
+AGED;Âge détaillé (en différence de millésimes);095;95 ans;factor;3
+AGED;Âge détaillé (en différence de millésimes);096;96 ans;factor;3
+AGED;Âge détaillé (en différence de millésimes);097;97 ans;factor;3
+AGED;Âge détaillé (en différence de millésimes);098;98 ans;factor;3
+AGED;Âge détaillé (en différence de millésimes);099;99 ans;factor;3
+AGED;Âge détaillé (en différence de millésimes);100;100 ans;factor;3
+AGED;Âge détaillé (en différence de millésimes);101;101 ans;factor;3
+AGED;Âge détaillé (en différence de millésimes);102;102 ans;factor;3
+AGED;Âge détaillé (en différence de millésimes);103;103 ans;factor;3
+AGED;Âge détaillé (en différence de millésimes);104;104 ans;factor;3
+AGED;Âge détaillé (en différence de millésimes);105;105 ans;factor;3
+AGED;Âge détaillé (en différence de millésimes);106;106 ans;factor;3
+AGED;Âge détaillé (en différence de millésimes);107;107 ans;factor;3
+AGED;Âge détaillé (en différence de millésimes);108;108 ans;factor;3
+AGED;Âge détaillé (en différence de millésimes);111;111 ans;factor;3
+AGED;Âge détaillé (en différence de millésimes);112;112 ans;factor;3
+AGED;Âge détaillé (en différence de millésimes);115;115 ans;factor;3
+AGEREV;Âge en années révolues détaillé;015;15 ans;factor;3
+AGEREV;Âge en années révolues détaillé;016;16 ans;factor;3
+AGEREV;Âge en années révolues détaillé;017;17 ans;factor;3
+AGEREV;Âge en années révolues détaillé;018;18 ans;factor;3
+AGEREV;Âge en années révolues détaillé;019;19 ans;factor;3
+AGEREV;Âge en années révolues détaillé;020;20 ans;factor;3
+AGEREV;Âge en années révolues détaillé;021;21 ans;factor;3
+AGEREV;Âge en années révolues détaillé;022;22 ans;factor;3
+AGEREV;Âge en années révolues détaillé;023;23 ans;factor;3
+AGEREV;Âge en années révolues détaillé;024;24 ans;factor;3
+AGEREV;Âge en années révolues détaillé;025;25 ans;factor;3
+AGEREV;Âge en années révolues détaillé;026;26 ans;factor;3
+AGEREV;Âge en années révolues détaillé;027;27 ans;factor;3
+AGEREV;Âge en années révolues détaillé;028;28 ans;factor;3
+AGEREV;Âge en années révolues détaillé;029;29 ans;factor;3
+AGEREV;Âge en années révolues détaillé;030;30 ans;factor;3
+AGEREV;Âge en années révolues détaillé;031;31 ans;factor;3
+AGEREV;Âge en années révolues détaillé;032;32 ans;factor;3
+AGEREV;Âge en années révolues détaillé;033;33 ans;factor;3
+AGEREV;Âge en années révolues détaillé;034;34 ans;factor;3
+AGEREV;Âge en années révolues détaillé;035;35 ans;factor;3
+AGEREV;Âge en années révolues détaillé;036;36 ans;factor;3
+AGEREV;Âge en années révolues détaillé;037;37 ans;factor;3
+AGEREV;Âge en années révolues détaillé;038;38 ans;factor;3
+AGEREV;Âge en années révolues détaillé;039;39 ans;factor;3
+AGEREV;Âge en années révolues détaillé;040;40 ans;factor;3
+AGEREV;Âge en années révolues détaillé;041;41 ans;factor;3
+AGEREV;Âge en années révolues détaillé;042;42 ans;factor;3
+AGEREV;Âge en années révolues détaillé;043;43 ans;factor;3
+AGEREV;Âge en années révolues détaillé;044;44 ans;factor;3
+AGEREV;Âge en années révolues détaillé;045;45 ans;factor;3
+AGEREV;Âge en années révolues détaillé;046;46 ans;factor;3
+AGEREV;Âge en années révolues détaillé;047;47 ans;factor;3
+AGEREV;Âge en années révolues détaillé;048;48 ans;factor;3
+AGEREV;Âge en années révolues détaillé;049;49 ans;factor;3
+AGEREV;Âge en années révolues détaillé;050;50 ans;factor;3
+AGEREV;Âge en années révolues détaillé;051;51 ans;factor;3
+AGEREV;Âge en années révolues détaillé;052;52 ans;factor;3
+AGEREV;Âge en années révolues détaillé;053;53 ans;factor;3
+AGEREV;Âge en années révolues détaillé;054;54 ans;factor;3
+AGEREV;Âge en années révolues détaillé;055;55 ans;factor;3
+AGEREV;Âge en années révolues détaillé;056;56 ans;factor;3
+AGEREV;Âge en années révolues détaillé;057;57 ans;factor;3
+AGEREV;Âge en années révolues détaillé;058;58 ans;factor;3
+AGEREV;Âge en années révolues détaillé;059;59 ans;factor;3
+AGEREV;Âge en années révolues détaillé;060;60 ans;factor;3
+AGEREV;Âge en années révolues détaillé;061;61 ans;factor;3
+AGEREV;Âge en années révolues détaillé;062;62 ans;factor;3
+AGEREV;Âge en années révolues détaillé;063;63 ans;factor;3
+AGEREV;Âge en années révolues détaillé;064;64 ans;factor;3
+AGEREV;Âge en années révolues détaillé;065;65 ans;factor;3
+AGEREV;Âge en années révolues détaillé;066;66 ans;factor;3
+AGEREV;Âge en années révolues détaillé;067;67 ans;factor;3
+AGEREV;Âge en années révolues détaillé;068;68 ans;factor;3
+AGEREV;Âge en années révolues détaillé;069;69 ans;factor;3
+AGEREV;Âge en années révolues détaillé;070;70 ans;factor;3
+AGEREV;Âge en années révolues détaillé;071;71 ans;factor;3
+AGEREV;Âge en années révolues détaillé;072;72 ans;factor;3
+AGEREV;Âge en années révolues détaillé;073;73 ans;factor;3
+AGEREV;Âge en années révolues détaillé;074;74 ans;factor;3
+AGEREV;Âge en années révolues détaillé;075;75 ans;factor;3
+AGEREV;Âge en années révolues détaillé;076;76 ans;factor;3
+AGEREV;Âge en années révolues détaillé;077;77 ans;factor;3
+AGEREV;Âge en années révolues détaillé;078;78 ans;factor;3
+AGEREV;Âge en années révolues détaillé;079;79 ans;factor;3
+AGEREV;Âge en années révolues détaillé;080;80 ans;factor;3
+AGEREV;Âge en années révolues détaillé;081;81 ans;factor;3
+AGEREV;Âge en années révolues détaillé;082;82 ans;factor;3
+AGEREV;Âge en années révolues détaillé;083;83 ans;factor;3
+AGEREV;Âge en années révolues détaillé;084;84 ans;factor;3
+AGEREV;Âge en années révolues détaillé;085;85 ans;factor;3
+AGEREV;Âge en années révolues détaillé;086;86 ans;factor;3
+AGEREV;Âge en années révolues détaillé;087;87 ans;factor;3
+AGEREV;Âge en années révolues détaillé;088;88 ans;factor;3
+AGEREV;Âge en années révolues détaillé;089;89 ans;factor;3
+AGEREV;Âge en années révolues détaillé;090;90 ans;factor;3
+AGEREV;Âge en années révolues détaillé;091;91 ans;factor;3
+AGEREV;Âge en années révolues détaillé;092;92 ans;factor;3
+AGEREV;Âge en années révolues détaillé;093;93 ans;factor;3
+AGEREV;Âge en années révolues détaillé;094;94 ans;factor;3
+AGEREV;Âge en années révolues détaillé;095;95 ans;factor;3
+AGEREV;Âge en années révolues détaillé;096;96 ans;factor;3
+AGEREV;Âge en années révolues détaillé;097;97 ans;factor;3
+AGEREV;Âge en années révolues détaillé;098;98 ans;factor;3
+AGEREV;Âge en années révolues détaillé;099;99 ans;factor;3
+AGEREV;Âge en années révolues détaillé;100;100 ans;factor;3
+AGEREV;Âge en années révolues détaillé;101;101 ans;factor;3
+AGEREV;Âge en années révolues détaillé;102;102 ans;factor;3
+AGEREV;Âge en années révolues détaillé;103;103 ans;factor;3
+AGEREV;Âge en années révolues détaillé;104;104 ans;factor;3
+AGEREV;Âge en années révolues détaillé;105;105 ans;factor;3
+AGEREV;Âge en années révolues détaillé;106;106 ans;factor;3
+AGEREV;Âge en années révolues détaillé;107;107 ans;factor;3
+AGEREV;Âge en années révolues détaillé;110;110 ans;factor;3
+AGEREV;Âge en années révolues détaillé;111;111 ans;factor;3
+AGEREV;Âge en années révolues détaillé;115;115 ans;factor;3
+AGEREVQ;Âge quinquennal en années révolues;015;15 à 19 ans;factor;3
+AGEREVQ;Âge quinquennal en années révolues;020;20 à 24 ans;factor;3
+AGEREVQ;Âge quinquennal en années révolues;025;25 à 29 ans;factor;3
+AGEREVQ;Âge quinquennal en années révolues;030;30 à 34 ans;factor;3
+AGEREVQ;Âge quinquennal en années révolues;035;35 à 39 ans;factor;3
+AGEREVQ;Âge quinquennal en années révolues;040;40 à 44 ans;factor;3
+AGEREVQ;Âge quinquennal en années révolues;045;45 à 49 ans;factor;3
+AGEREVQ;Âge quinquennal en années révolues;050;50 à 54 ans;factor;3
+AGEREVQ;Âge quinquennal en années révolues;055;55 à 59 ans;factor;3
+AGEREVQ;Âge quinquennal en années révolues;060;60 à 64 ans;factor;3
+AGEREVQ;Âge quinquennal en années révolues;065;65 à 69 ans;factor;3
+AGEREVQ;Âge quinquennal en années révolues;070;70 à 74 ans;factor;3
+AGEREVQ;Âge quinquennal en années révolues;075;75 à 79 ans;factor;3
+AGEREVQ;Âge quinquennal en années révolues;080;80 à 84 ans;factor;3
+AGEREVQ;Âge quinquennal en années révolues;085;85 à 89 ans;factor;3
+AGEREVQ;Âge quinquennal en années révolues;090;90 à 94 ans;factor;3
+AGEREVQ;Âge quinquennal en années révolues;095;95 à 99 ans;factor;3
+AGEREVQ;Âge quinquennal en années révolues;100;100 à 104 ans;factor;3
+AGEREVQ;Âge quinquennal en années révolues;105;105 à 109 ans;factor;3
+AGEREVQ;Âge quinquennal en années révolues;110;110 à 114 ans;factor;3
+AGEREVQ;Âge quinquennal en années révolues;115;115 à 119 ans;factor;3
+ANAI;Année de naissance;1900;Année  1900;factor;4
+ANAI;Année de naissance;1908;Année  1908;factor;4
+ANAI;Année de naissance;1910;Année  1910;factor;4
+ANAI;Année de naissance;1911;Année  1911;factor;4
+ANAI;Année de naissance;1913;Année  1913;factor;4
+ANAI;Année de naissance;1914;Année  1914;factor;4
+ANAI;Année de naissance;1916;Année  1916;factor;4
+ANAI;Année de naissance;1917;Année  1917;factor;4
+ANAI;Année de naissance;1918;Année  1918;factor;4
+ANAI;Année de naissance;1919;Année  1919;factor;4
+ANAI;Année de naissance;1920;Année  1920;factor;4
+ANAI;Année de naissance;1921;Année  1921;factor;4
+ANAI;Année de naissance;1922;Année  1922;factor;4
+ANAI;Année de naissance;1923;Année  1923;factor;4
+ANAI;Année de naissance;1924;Année  1924;factor;4
+ANAI;Année de naissance;1925;Année  1925;factor;4
+ANAI;Année de naissance;1926;Année  1926;factor;4
+ANAI;Année de naissance;1927;Année  1927;factor;4
+ANAI;Année de naissance;1928;Année  1928;factor;4
+ANAI;Année de naissance;1929;Année  1929;factor;4
+ANAI;Année de naissance;1930;Année  1930;factor;4
+ANAI;Année de naissance;1931;Année  1931;factor;4
+ANAI;Année de naissance;1932;Année  1932;factor;4
+ANAI;Année de naissance;1933;Année  1933;factor;4
+ANAI;Année de naissance;1934;Année  1934;factor;4
+ANAI;Année de naissance;1935;Année  1935;factor;4
+ANAI;Année de naissance;1936;Année  1936;factor;4
+ANAI;Année de naissance;1937;Année  1937;factor;4
+ANAI;Année de naissance;1938;Année  1938;factor;4
+ANAI;Année de naissance;1939;Année  1939;factor;4
+ANAI;Année de naissance;1940;Année  1940;factor;4
+ANAI;Année de naissance;1941;Année  1941;factor;4
+ANAI;Année de naissance;1942;Année  1942;factor;4
+ANAI;Année de naissance;1943;Année  1943;factor;4
+ANAI;Année de naissance;1944;Année  1944;factor;4
+ANAI;Année de naissance;1945;Année  1945;factor;4
+ANAI;Année de naissance;1946;Année  1946;factor;4
+ANAI;Année de naissance;1947;Année  1947;factor;4
+ANAI;Année de naissance;1948;Année  1948;factor;4
+ANAI;Année de naissance;1949;Année  1949;factor;4
+ANAI;Année de naissance;1950;Année  1950;factor;4
+ANAI;Année de naissance;1951;Année  1951;factor;4
+ANAI;Année de naissance;1952;Année  1952;factor;4
+ANAI;Année de naissance;1953;Année  1953;factor;4
+ANAI;Année de naissance;1954;Année  1954;factor;4
+ANAI;Année de naissance;1955;Année  1955;factor;4
+ANAI;Année de naissance;1956;Année  1956;factor;4
+ANAI;Année de naissance;1957;Année  1957;factor;4
+ANAI;Année de naissance;1958;Année  1958;factor;4
+ANAI;Année de naissance;1959;Année  1959;factor;4
+ANAI;Année de naissance;1960;Année  1960;factor;4
+ANAI;Année de naissance;1961;Année  1961;factor;4
+ANAI;Année de naissance;1962;Année  1962;factor;4
+ANAI;Année de naissance;1963;Année  1963;factor;4
+ANAI;Année de naissance;1964;Année  1964;factor;4
+ANAI;Année de naissance;1965;Année  1965;factor;4
+ANAI;Année de naissance;1966;Année  1966;factor;4
+ANAI;Année de naissance;1967;Année  1967;factor;4
+ANAI;Année de naissance;1968;Année  1968;factor;4
+ANAI;Année de naissance;1969;Année  1969;factor;4
+ANAI;Année de naissance;1970;Année  1970;factor;4
+ANAI;Année de naissance;1971;Année  1971;factor;4
+ANAI;Année de naissance;1972;Année  1972;factor;4
+ANAI;Année de naissance;1973;Année  1973;factor;4
+ANAI;Année de naissance;1974;Année  1974;factor;4
+ANAI;Année de naissance;1975;Année  1975;factor;4
+ANAI;Année de naissance;1976;Année  1976;factor;4
+ANAI;Année de naissance;1977;Année  1977;factor;4
+ANAI;Année de naissance;1978;Année  1978;factor;4
+ANAI;Année de naissance;1979;Année  1979;factor;4
+ANAI;Année de naissance;1980;Année  1980;factor;4
+ANAI;Année de naissance;1981;Année  1981;factor;4
+ANAI;Année de naissance;1982;Année  1982;factor;4
+ANAI;Année de naissance;1983;Année  1983;factor;4
+ANAI;Année de naissance;1984;Année  1984;factor;4
+ANAI;Année de naissance;1985;Année  1985;factor;4
+ANAI;Année de naissance;1986;Année  1986;factor;4
+ANAI;Année de naissance;1987;Année  1987;factor;4
+ANAI;Année de naissance;1988;Année  1988;factor;4
+ANAI;Année de naissance;1989;Année  1989;factor;4
+ANAI;Année de naissance;1990;Année  1990;factor;4
+ANAI;Année de naissance;1991;Année  1991;factor;4
+ANAI;Année de naissance;1992;Année  1992;factor;4
+ANAI;Année de naissance;1993;Année  1993;factor;4
+ANAI;Année de naissance;1994;Année  1994;factor;4
+ANAI;Année de naissance;1995;Année  1995;factor;4
+ANAI;Année de naissance;1996;Année  1996;factor;4
+ANAI;Année de naissance;1997;Année  1997;factor;4
+ANAI;Année de naissance;1998;Année  1998;factor;4
+ANAI;Année de naissance;1999;Année  1999;factor;4
+ANAI;Année de naissance;2000;Année  2000;factor;4
+ANAI;Année de naissance;2001;Année  2001;factor;4
+ANAI;Année de naissance;2002;Année  2002;factor;4
+ANAI;Année de naissance;2003;Année  2003;factor;4
+ANAI;Année de naissance;2004;Année  2004;factor;4
+ANAI;Année de naissance;2005;Année  2005;factor;4
+ANAI;Année de naissance;2006;Année 2006;factor;4
+ANAI;Année de naissance;2007;Année 2007;factor;4
+ANAI;Année de naissance;2008;Année 2008;factor;4
+ANAI;Année de naissance;2009;Année 2009;factor;4
+DIPL;Diplôme le plus élevé;01;Pas de scolarité ou arrêt avant la fin du primaire;factor;2
+DIPL;Diplôme le plus élevé;02;Aucun diplôme et scolarité interrompue à la fin du primaire ou avant la fin du collège;factor;2
+DIPL;Diplôme le plus élevé;03;Aucun diplôme et scolarité jusqu’à la fin du collège ou au-delà;factor;2
+DIPL;Diplôme le plus élevé;11;CEP (certificat d’études primaires);factor;2
+DIPL;Diplôme le plus élevé;12;BEPC, brevet élémentaire, brevet des collèges, DNB;factor;2
+DIPL;Diplôme le plus élevé;13;CAP, BEP ou diplôme de niveau équivalent;factor;2
+DIPL;Diplôme le plus élevé;14;Baccalauréat général ou technologique, brevet supérieur, capacité en droit, DAEU, ESEU;factor;2
+DIPL;Diplôme le plus élevé;15;Baccalauréat professionnel, brevet professionnel, de technicien ou d’enseignement, diplôme équivalent;factor;2
+DIPL;Diplôme le plus élevé;16;BTS, DUT, Deug, Deust, diplôme de la santé ou du social de niveau bac+2, diplôme équivalent;factor;2
+DIPL;Diplôme le plus élevé;17;Licence, licence pro, maîtrise, diplôme équivalent de niveau bac+3 ou bac+4;factor;2
+DIPL;Diplôme le plus élevé;18;Master, DEA, DESS, diplôme grande école niveau bac+5, doctorat de santé;factor;2
+DIPL;Diplôme le plus élevé;19;Doctorat de recherche (hors santé);factor;2
+EMPL;Condition d'emploi;11;En contrat d'apprentissage ou de professionnalisation;factor;2
+EMPL;Condition d'emploi;12;Placés par une agence d'intérim;factor;2
+EMPL;Condition d'emploi;13;Emplois aidés (contrat unique d'insertion, d'initiative emploi, d'accompagnement dans l'emploi, avenir, etc.);factor;2
+EMPL;Condition d'emploi;14;Stagiaires rémunérés en entreprise;factor;2
+EMPL;Condition d'emploi;15;Autres emplois à durée limitée, CDD, contrat court, saisonnier, vacataire, etc.;factor;2
+EMPL;Condition d'emploi;16;Emplois sans limite de durée, CDI, titulaire de la fonction publique;factor;2
+EMPL;Condition d'emploi;21;Non salariés : Indépendants;factor;2
+EMPL;Condition d'emploi;22;Non salariés : Employeurs;factor;2
+EMPL;Condition d'emploi;23;Non salariés : Aides familiaux;factor;2
+ILETUDLT;Indicateur du lieu d'études par rapport au lieu de travail;1;Dans la zone d'emploi;factor;1
+ILETUDLT;Indicateur du lieu d'études par rapport au lieu de travail;2;Ailleurs, dans le (un) département de la zone d'emploi;factor;1
+ILETUDLT;Indicateur du lieu d'études par rapport au lieu de travail;3;Ailleurs, dans la (une) région de la zone d'emploi;factor;1
+ILETUDLT;Indicateur du lieu d'études par rapport au lieu de travail;4;Dans une autre région: France métropolitaine;factor;1
+ILETUDLT;Indicateur du lieu d'études par rapport au lieu de travail;5;Dans une autre région: DOM (y compris Mayotte);factor;1
+ILETUDLT;Indicateur du lieu d'études par rapport au lieu de travail;6;Dans une autre région: COM;factor;1
+ILETUDLT;Indicateur du lieu d'études par rapport au lieu de travail;7;A l'étranger;factor;1
+ILETUDLT;Indicateur du lieu d'études par rapport au lieu de travail;Z;Sans objet (pas d'inscription dans un établissement d'enseignement);factor;1
+ILRLT;Indicateur du lieu de résidence par rapport au lieu de travail;1;Dans la zone d'emploi;factor;1
+ILRLT;Indicateur du lieu de résidence par rapport au lieu de travail;2;Ailleurs, dans le (un) département de la zone d'emploi;factor;1
+ILRLT;Indicateur du lieu de résidence par rapport au lieu de travail;3;Ailleurs, dans la (une) région de la zone d'emploi;factor;1
+ILRLT;Indicateur du lieu de résidence par rapport au lieu de travail;4;Dans une autre région: France métropolitaine;factor;1
+ILRLT;Indicateur du lieu de résidence par rapport au lieu de travail;5;Dans une autre région: DOM;factor;1
+IPONDI;Poids de l'individu;;;numeric;17.15
+IRANLT;Indicateur de résidence antérieure au 1er janvier de l'année précédente (par rapport au lieu de travail);1;Dans la zone d'emploi;factor;1
+IRANLT;Indicateur de résidence antérieure au 1er janvier de l'année précédente (par rapport au lieu de travail);2;Ailleurs, dans le (un) département de la zone d'emploi;factor;1
+IRANLT;Indicateur de résidence antérieure au 1er janvier de l'année précédente (par rapport au lieu de travail);3;Ailleurs, dans la (une) région de la zone d'emploi;factor;1
+IRANLT;Indicateur de résidence antérieure au 1er janvier de l'année précédente (par rapport au lieu de travail);4;Dans une autre région : France métropolitaine;factor;1
+IRANLT;Indicateur de résidence antérieure au 1er janvier de l'année précédente (par rapport au lieu de travail);5;Dans une autre région : DOM (y compris Mayotte);factor;1
+IRANLT;Indicateur de résidence antérieure au 1er janvier de l'année précédente (par rapport au lieu de travail);6;Dans une autre région : COM;factor;1
+IRANLT;Indicateur de résidence antérieure au 1er janvier de l'année précédente (par rapport au lieu de travail);7;A l'étranger;factor;1
+METRODOMLT;Indicateur Métropole ou DOM du lieu de travail;D;DOM;factor;1
+METRODOMLT;Indicateur Métropole ou DOM du lieu de travail;M;France métropolitaine;factor;1
+NA10;Activité économique en 10 postes (NA - A10);AZ;Agriculture, sylviculture et pêche;factor;2
+NA10;Activité économique en 10 postes (NA - A10);BE;Industries manufacturières, industries extractives et autres;factor;2
+NA10;Activité économique en 10 postes (NA - A10);FZ;Construction;factor;2
+NA10;Activité économique en 10 postes (NA - A10);GI;Commerce de gros et de détail, transports, hébergement et restauration;factor;2
+NA10;Activité économique en 10 postes (NA - A10);JZ;Information et communication;factor;2
+NA10;Activité économique en 10 postes (NA - A10);KZ;Activités financières et d'assurance;factor;2
+NA10;Activité économique en 10 postes (NA - A10);LZ;Activités immobilières;factor;2
+NA10;Activité économique en 10 postes (NA - A10);MN;Activités spécialisées, scientifiques et techniques et activités de services administratifs et de soutien;factor;2
+NA10;Activité économique en 10 postes (NA - A10);OQ;Administration publique, enseignement, santé humaine et action sociale;factor;2
+NA10;Activité économique en 10 postes (NA - A10);RU;Autres activités de services;factor;2
+NA17;Activité économique en 17 postes (NA - A17);AZ;Agriculture, sylviculture et pêche;factor;2
+NA17;Activité économique en 17 postes (NA - A17);C1;Fabrication de denrées alimentaires, de boissons et  de produits à base de tabac;factor;2
+NA17;Activité économique en 17 postes (NA - A17);C2;Cokéfaction et raffinage;factor;2
+NA17;Activité économique en 17 postes (NA - A17);C3;"Fabrication d'équipements électriques, électroniques, informatiques ; fabrication de machines";factor;2
+NA17;Activité économique en 17 postes (NA - A17);C4;Fabrication de matériels de transport;factor;2
+NA17;Activité économique en 17 postes (NA - A17);C5;Fabrication d'autres produits industriels;factor;2
+NA17;Activité économique en 17 postes (NA - A17);DE;Industries extractives, énergie, eau, gestion des déchets et dépollution;factor;2
+NA17;Activité économique en 17 postes (NA - A17);FZ;Construction;factor;2
+NA17;Activité économique en 17 postes (NA - A17);GZ;"Commerce ; réparation d'automobiles et de motocycles";factor;2
+NA17;Activité économique en 17 postes (NA - A17);HZ;Transports et entreposage;factor;2
+NA17;Activité économique en 17 postes (NA - A17);IZ;Hébergement et restauration;factor;2
+NA17;Activité économique en 17 postes (NA - A17);JZ;Information et communication;factor;2
+NA17;Activité économique en 17 postes (NA - A17);KZ;Activités financières et d'assurance;factor;2
+NA17;Activité économique en 17 postes (NA - A17);LZ;Activités immobilières;factor;2
+NA17;Activité économique en 17 postes (NA - A17);MN;"Activités scientifiques et techniques ; services administratifs et de soutien";factor;2
+NA17;Activité économique en 17 postes (NA - A17);OQ;Administration publique, enseignement, santé humaine et action sociale;factor;2
+NA17;Activité économique en 17 postes (NA - A17);RU;Autres activités de services;factor;2
+NA38;Activité économique en 38 postes (NA - A38);AZ;Agriculture, sylviculture et pêche;factor;2
+NA38;Activité économique en 38 postes (NA - A38);BZ;Industries extractives;factor;2
+NA38;Activité économique en 38 postes (NA - A38);CA;Fabrication de denrées alimentaires, de boissons et de produits à base de tabac;factor;2
+NA38;Activité économique en 38 postes (NA - A38);CB;Fabrication de textiles, industries de l'habillement, industrie du cuir et de la chaussure;factor;2
+NA38;Activité économique en 38 postes (NA - A38);CC;Travail du bois, industries du papier et imprimerie;factor;2
+NA38;Activité économique en 38 postes (NA - A38);CD;Cokéfaction et raffinage;factor;2
+NA38;Activité économique en 38 postes (NA - A38);CE;Industrie chimique;factor;2
+NA38;Activité économique en 38 postes (NA - A38);CF;Industrie pharmaceutique;factor;2
+NA38;Activité économique en 38 postes (NA - A38);CG;Fabrication de produits en caoutchouc et en plastique ainsi que d'autres produits minéraux non métalliques;factor;2
+NA38;Activité économique en 38 postes (NA - A38);CH;Métallurgie et fabrication de produits métalliques à l'exception des machines et des équipements;factor;2
+NA38;Activité économique en 38 postes (NA - A38);CI;Fabrication de produits informatiques, électroniques et optiques;factor;2
+NA38;Activité économique en 38 postes (NA - A38);CJ;Fabrication d'équipements électriques;factor;2
+NA38;Activité économique en 38 postes (NA - A38);CK;Fabrication de machines et équipements (non compris ailleurs);factor;2
+NA38;Activité économique en 38 postes (NA - A38);CL;Fabrication de matériels de transport;factor;2
+NA38;Activité économique en 38 postes (NA - A38);CM;"Autres industries manufacturières ; réparation et installation de machines et d'équipements";factor;2
+NA38;Activité économique en 38 postes (NA - A38);DZ;Production et distribution d'électricité, de gaz, de vapeur et d'air conditionné;factor;2
+NA38;Activité économique en 38 postes (NA - A38);EZ;"Production et distribution d'eau ; assainissement, gestion des déchets et dépollution";factor;2
+NA38;Activité économique en 38 postes (NA - A38);FZ;Construction;factor;2
+NA38;Activité économique en 38 postes (NA - A38);GZ;"Commerce ; réparation d'automobiles et de motocycles";factor;2
+NA38;Activité économique en 38 postes (NA - A38);HZ;Transports et entreposage;factor;2
+NA38;Activité économique en 38 postes (NA - A38);IZ;Hébergement et restauration;factor;2
+NA38;Activité économique en 38 postes (NA - A38);JA;Edition, audiovisuel et diffusion;factor;2
+NA38;Activité économique en 38 postes (NA - A38);JB;Télécommunications;factor;2
+NA38;Activité économique en 38 postes (NA - A38);JC;Activités informatiques et services d'information;factor;2
+NA38;Activité économique en 38 postes (NA - A38);KZ;Activités financières et d'assurance;factor;2
+NA38;Activité économique en 38 postes (NA - A38);LZ;Activités immobilières;factor;2
+NA38;Activité économique en 38 postes (NA - A38);MA;Activités juridiques, comptables, de gestion, d'architecture, d'ingénierie, de contrôle et d'analyses techniques;factor;2
+NA38;Activité économique en 38 postes (NA - A38);MB;Recherche-développement scientifique;factor;2
+NA38;Activité économique en 38 postes (NA - A38);MC;Autres activités spécialisées, scientifiques et techniques;factor;2
+NA38;Activité économique en 38 postes (NA - A38);NZ;Activités de services administratifs et de soutien;factor;2
+NA38;Activité économique en 38 postes (NA - A38);OZ;Administration publique;factor;2
+NA38;Activité économique en 38 postes (NA - A38);PZ;Enseignement;factor;2
+NA38;Activité économique en 38 postes (NA - A38);QA;Activités pour la santé humaine;factor;2
+NA38;Activité économique en 38 postes (NA - A38);QB;Hébergement médico-social et social et action sociale sans hébergement;factor;2
+NA38;Activité économique en 38 postes (NA - A38);RZ;Arts, spectacles et activités récréatives;factor;2
+NA38;Activité économique en 38 postes (NA - A38);SZ;Autres activités de services;factor;2
+NA38;Activité économique en 38 postes (NA - A38);TZ;"Activités des ménages en tant qu'employeurs ; activités indifférenciées des ménages en tant que producteurs de biens et services pour usage propre";factor;2
+NA38;Activité économique en 38 postes (NA - A38);UZ;Activités extra-territoriales;factor;2
+NA5;Activité économique regroupée en 5 postes;AZ;Agriculture, sylviculture et pêche;factor;2
+NA5;Activité économique regroupée en 5 postes;BE;Industrie manufacturière, industries extractives  et autres;factor;2
+NA5;Activité économique regroupée en 5 postes;FZ;Construction;factor;2
+NA5;Activité économique regroupée en 5 postes;GU;Commerce, transports et services divers;factor;2
+NA5;Activité économique regroupée en 5 postes;OQ;Administration publique, enseignement, santé humaine et action sociale;factor;2
+NA64;Activité économique en 64 postes (NA - A64);AZ1;Culture et production animale, chasse et services annexes;factor;3
+NA64;Activité économique en 64 postes (NA - A64);AZ2;Sylviculture et exploitation forestière;factor;3
+NA64;Activité économique en 64 postes (NA - A64);AZ3;Pêche et aquaculture;factor;3
+NA64;Activité économique en 64 postes (NA - A64);BZ0;Industries extractives;factor;3
+NA64;Activité économique en 64 postes (NA - A64);CA0;Fabrication de denrées alimentaires, de boissons et de produits à base de tabac;factor;3
+NA64;Activité économique en 64 postes (NA - A64);CB0;Fabrication de textiles, industrie de l’habillement, industrie du cuir et de la chaussure;factor;3
+NA64;Activité économique en 64 postes (NA - A64);CC1;"Travail du bois et fabrication d'articles en bois et en liège, à l'exception des meubles ; fabrication d'articles en vannerie et sparterie";factor;3
+NA64;Activité économique en 64 postes (NA - A64);CC2;Industrie du papier et du carton;factor;3
+NA64;Activité économique en 64 postes (NA - A64);CC3;Imprimerie et reproduction d'enregistrements;factor;3
+NA64;Activité économique en 64 postes (NA - A64);CD0;Cokéfaction et raffinage;factor;3
+NA64;Activité économique en 64 postes (NA - A64);CE0;Industrie chimique;factor;3
+NA64;Activité économique en 64 postes (NA - A64);CF0;Industrie pharmaceutique;factor;3
+NA64;Activité économique en 64 postes (NA - A64);CG1;Fabrication de produits en caoutchouc et en plastique;factor;3
+NA64;Activité économique en 64 postes (NA - A64);CG2;Fabrication d'autres produits minéraux non métalliques;factor;3
+NA64;Activité économique en 64 postes (NA - A64);CH1;Métallurgie;factor;3
+NA64;Activité économique en 64 postes (NA - A64);CH2;Fabrication de produits métalliques, à l'exception des machines et des équipements;factor;3
+NA64;Activité économique en 64 postes (NA - A64);CI0;Fabrication de produits informatiques, électroniques et optiques;factor;3
+NA64;Activité économique en 64 postes (NA - A64);CJ0;Fabrication d'équipements électriques;factor;3
+NA64;Activité économique en 64 postes (NA - A64);CK0;Fabrication de machines et équipements n.c.a.;factor;3
+NA64;Activité économique en 64 postes (NA - A64);CL1;Industrie automobile;factor;3
+NA64;Activité économique en 64 postes (NA - A64);CL2;Fabrication d'autres matériels de transport;factor;3
+NA64;Activité économique en 64 postes (NA - A64);CM1;Autres industries manufacturières n.c.a.;factor;3
+NA64;Activité économique en 64 postes (NA - A64);CM2;Réparation et installation de machines et d'équipements;factor;3
+NA64;Activité économique en 64 postes (NA - A64);DZ0;Production et distribution d'électricité, de gaz, de vapeur et d'air conditionné;factor;3
+NA64;Activité économique en 64 postes (NA - A64);EZ1;Captage, traitement et distribution d'eau;factor;3
+NA64;Activité économique en 64 postes (NA - A64);EZ2;Collecte et traitement des eaux usées, traitement des déchets et dépollution;factor;3
+NA64;Activité économique en 64 postes (NA - A64);FZ0;Construction;factor;3
+NA64;Activité économique en 64 postes (NA - A64);GZ1;Commerce et réparation d'automobiles et de motocycles;factor;3
+NA64;Activité économique en 64 postes (NA - A64);GZ2;Commerce de gros, à l'exception des automobiles et des motocycles;factor;3
+NA64;Activité économique en 64 postes (NA - A64);GZ3;Commerce de détail, à l'exception des automobiles et des motocycles;factor;3
+NA64;Activité économique en 64 postes (NA - A64);HZ1;Transports terrestres et transport par conduites;factor;3
+NA64;Activité économique en 64 postes (NA - A64);HZ2;Transports par eau;factor;3
+NA64;Activité économique en 64 postes (NA - A64);HZ3;Transports aériens;factor;3
+NA64;Activité économique en 64 postes (NA - A64);HZ4;Entreposage et services auxiliaires des transports;factor;3
+NA64;Activité économique en 64 postes (NA - A64);HZ5;Activités de poste et de courrier;factor;3
+NA64;Activité économique en 64 postes (NA - A64);IZ0;Hébergement et restauration;factor;3
+NA64;Activité économique en 64 postes (NA - A64);JA1;Edition;factor;3
+NA64;Activité économique en 64 postes (NA - A64);JA2;"Production de films cinématographiques, de vidéo et de programmes de télévision ; enregistrement sonore et édition musicale ; programmation et diffusion";factor;3
+NA64;Activité économique en 64 postes (NA - A64);JB0;Télécommunications;factor;3
+NA64;Activité économique en 64 postes (NA - A64);JC0;"Programmation, conseil et autres activités informatiques ; services d'information";factor;3
+NA64;Activité économique en 64 postes (NA - A64);KZ1;Activités des services financiers, hors assurance et caisses de retraite;factor;3
+NA64;Activité économique en 64 postes (NA - A64);KZ2;Assurance;factor;3
+NA64;Activité économique en 64 postes (NA - A64);KZ3;Activités auxiliaires de services financiers et d'assurance;factor;3
+NA64;Activité économique en 64 postes (NA - A64);LZ0;Activités immobilières;factor;3
+NA64;Activité économique en 64 postes (NA - A64);MA1;"Activités juridiques et comptables ; conseil de gestion ; activités des sièges sociaux";factor;3
+NA64;Activité économique en 64 postes (NA - A64);MA2;"Activités d'architecture et d'ingénierie ; activités de contrôle et analyses techniques";factor;3
+NA64;Activité économique en 64 postes (NA - A64);MB0;Recherche-développement scientifique;factor;3
+NA64;Activité économique en 64 postes (NA - A64);MC1;Publicité et études de marché;factor;3
+NA64;Activité économique en 64 postes (NA - A64);MC2;Autres activités spécialisées, scientifiques et techniques et activités vétérinaires;factor;3
+NA64;Activité économique en 64 postes (NA - A64);NZ1;Activités de location et location-bail;factor;3
+NA64;Activité économique en 64 postes (NA - A64);NZ2;Activités liées à l'emploi;factor;3
+NA64;Activité économique en 64 postes (NA - A64);NZ3;Activités des agences de voyage, voyagistes, services de réservation et activités connexes;factor;3
+NA64;Activité économique en 64 postes (NA - A64);NZ4;"Enquêtes et sécurité ; services relatifs aux bâtiments et aménagement paysager ; autres activités de soutien";factor;3
+NA64;Activité économique en 64 postes (NA - A64);OZ0;"Administration publique et défense ; sécurité sociale obligatoire";factor;3
+NA64;Activité économique en 64 postes (NA - A64);PZ0;Enseignement;factor;3
+NA64;Activité économique en 64 postes (NA - A64);QA0;Activités pour la santé humaine;factor;3
+NA64;Activité économique en 64 postes (NA - A64);QB0;Hébergement médico-social et social et action sociale sans hébergement;factor;3
+NA64;Activité économique en 64 postes (NA - A64);RZ1;Arts, divertissement et musées;factor;3
+NA64;Activité économique en 64 postes (NA - A64);RZ2;Activités sportives, récréatives et de loisirs;factor;3
+NA64;Activité économique en 64 postes (NA - A64);SZ1;Activités des organisations associatives;factor;3
+NA64;Activité économique en 64 postes (NA - A64);SZ2;Réparation d'ordinateurs et de biens personnels et domestiques;factor;3
+NA64;Activité économique en 64 postes (NA - A64);SZ3;Autres services personnels;factor;3
+NA64;Activité économique en 64 postes (NA - A64);TZ0;"Activités des ménages en tant qu'employeurs ; activités indifférenciées des ménages en tant que producteurs de biens et services pour usage propre";factor;3
+NA64;Activité économique en 64 postes (NA - A64);UZ0;Activités des organisations et organismes extraterritoriaux;factor;3
+NA88;Activité économique en 88 postes (NA - A88);01;Culture et production animale, chasse et services annexes;factor;2
+NA88;Activité économique en 88 postes (NA - A88);02;Sylviculture et exploitation forestière;factor;2
+NA88;Activité économique en 88 postes (NA - A88);03;Pêche et aquaculture;factor;2
+NA88;Activité économique en 88 postes (NA - A88);05;Extraction de houille et de lignite;factor;2
+NA88;Activité économique en 88 postes (NA - A88);06;Extraction d'hydrocarbures;factor;2
+NA88;Activité économique en 88 postes (NA - A88);07;Extraction de minerais métalliques;factor;2
+NA88;Activité économique en 88 postes (NA - A88);08;Autres industries extractives;factor;2
+NA88;Activité économique en 88 postes (NA - A88);09;Services de soutien aux industries extractives;factor;2
+NA88;Activité économique en 88 postes (NA - A88);10;Industries alimentaires;factor;2
+NA88;Activité économique en 88 postes (NA - A88);11;Fabrication de boissons;factor;2
+NA88;Activité économique en 88 postes (NA - A88);12;Fabrication de produits à base de tabac;factor;2
+NA88;Activité économique en 88 postes (NA - A88);13;Fabrication de textiles;factor;2
+NA88;Activité économique en 88 postes (NA - A88);14;Industrie de l'habillement;factor;2
+NA88;Activité économique en 88 postes (NA - A88);15;Industrie du cuir et de la chaussure;factor;2
+NA88;Activité économique en 88 postes (NA - A88);16;"Travail du bois et fabrication d'articles en bois et en liège, à l'exception des meubles ; fabrication d'articles en vannerie et sparterie";factor;2
+NA88;Activité économique en 88 postes (NA - A88);17;Industrie du papier et du carton;factor;2
+NA88;Activité économique en 88 postes (NA - A88);18;Imprimerie et reproduction d'enregistrements;factor;2
+NA88;Activité économique en 88 postes (NA - A88);19;Cokéfaction et raffinage;factor;2
+NA88;Activité économique en 88 postes (NA - A88);20;Industrie chimique;factor;2
+NA88;Activité économique en 88 postes (NA - A88);21;Industrie pharmaceutique;factor;2
+NA88;Activité économique en 88 postes (NA - A88);22;Fabrication de produits en caoutchouc et en plastique;factor;2
+NA88;Activité économique en 88 postes (NA - A88);23;Fabrication d'autres produits minéraux non métalliques;factor;2
+NA88;Activité économique en 88 postes (NA - A88);24;Métallurgie;factor;2
+NA88;Activité économique en 88 postes (NA - A88);25;Fabrication de produits métalliques, à l'exception des machines et des équipements;factor;2
+NA88;Activité économique en 88 postes (NA - A88);26;Fabrication de produits informatiques, électroniques et optiques;factor;2
+NA88;Activité économique en 88 postes (NA - A88);27;Fabrication d'équipements électriques;factor;2
+NA88;Activité économique en 88 postes (NA - A88);28;Fabrication de machines et équipements n.c.a.;factor;2
+NA88;Activité économique en 88 postes (NA - A88);29;Industrie automobile;factor;2
+NA88;Activité économique en 88 postes (NA - A88);30;Fabrication d'autres matériels de transport;factor;2
+NA88;Activité économique en 88 postes (NA - A88);31;Fabrication de meubles;factor;2
+NA88;Activité économique en 88 postes (NA - A88);32;Autres industries manufacturières;factor;2
+NA88;Activité économique en 88 postes (NA - A88);33;Réparation et installation de machines et d'équipements;factor;2
+NA88;Activité économique en 88 postes (NA - A88);35;Production et distribution d'électricité, de gaz, de vapeur et d'air conditionné;factor;2
+NA88;Activité économique en 88 postes (NA - A88);36;Captage, traitement et distribution d'eau;factor;2
+NA88;Activité économique en 88 postes (NA - A88);37;Collecte et traitement des eaux usées;factor;2
+NA88;Activité économique en 88 postes (NA - A88);38;"Collecte, traitement et élimination des déchets ; récupération";factor;2
+NA88;Activité économique en 88 postes (NA - A88);39;Dépollution et autres services de gestion des déchets;factor;2
+NA88;Activité économique en 88 postes (NA - A88);41;Construction de bâtiments;factor;2
+NA88;Activité économique en 88 postes (NA - A88);42;Génie civil;factor;2
+NA88;Activité économique en 88 postes (NA - A88);43;Travaux de construction spécialisés;factor;2
+NA88;Activité économique en 88 postes (NA - A88);45;Commerce et réparation d'automobiles et de motocycles;factor;2
+NA88;Activité économique en 88 postes (NA - A88);46;Commerce de gros, à l'exception des automobiles et des motocycles;factor;2
+NA88;Activité économique en 88 postes (NA - A88);47;Commerce de détail, à l'exception des automobiles et des motocycles;factor;2
+NA88;Activité économique en 88 postes (NA - A88);49;Transports terrestres et transport par conduites;factor;2
+NA88;Activité économique en 88 postes (NA - A88);50;Transports par eau;factor;2
+NA88;Activité économique en 88 postes (NA - A88);51;Transports aériens;factor;2
+NA88;Activité économique en 88 postes (NA - A88);52;Entreposage et services auxiliaires des transports;factor;2
+NA88;Activité économique en 88 postes (NA - A88);53;Activités de poste et de courrier;factor;2
+NA88;Activité économique en 88 postes (NA - A88);55;Hébergement;factor;2
+NA88;Activité économique en 88 postes (NA - A88);56;Restauration;factor;2
+NA88;Activité économique en 88 postes (NA - A88);58;Édition;factor;2
+NA88;Activité économique en 88 postes (NA - A88);59;"Production de films cinématographiques, de vidéo et de programmes de télévision ; enregistrement sonore et édition musicale";factor;2
+NA88;Activité économique en 88 postes (NA - A88);60;Programmation et diffusion;factor;2
+NA88;Activité économique en 88 postes (NA - A88);61;Télécommunications;factor;2
+NA88;Activité économique en 88 postes (NA - A88);62;Programmation, conseil et autres activités informatiques;factor;2
+NA88;Activité économique en 88 postes (NA - A88);63;Services d'information;factor;2
+NA88;Activité économique en 88 postes (NA - A88);64;Activités des services financiers, hors assurance et caisses de retraite;factor;2
+NA88;Activité économique en 88 postes (NA - A88);65;Assurance;factor;2
+NA88;Activité économique en 88 postes (NA - A88);66;Activités auxiliaires de services financiers et d'assurance;factor;2
+NA88;Activité économique en 88 postes (NA - A88);68;Activités immobilières;factor;2
+NA88;Activité économique en 88 postes (NA - A88);69;Activités juridiques et comptables;factor;2
+NA88;Activité économique en 88 postes (NA - A88);70;"Activités des sièges sociaux ; conseil de gestion";factor;2
+NA88;Activité économique en 88 postes (NA - A88);71;"Activités d'architecture et d'ingénierie ; activités de contrôle et analyses techniques";factor;2
+NA88;Activité économique en 88 postes (NA - A88);72;Recherche-développement scientifique;factor;2
+NA88;Activité économique en 88 postes (NA - A88);73;Publicité et études de marché;factor;2
+NA88;Activité économique en 88 postes (NA - A88);74;Autres activités spécialisées, scientifiques et techniques;factor;2
+NA88;Activité économique en 88 postes (NA - A88);75;Activités vétérinaires;factor;2
+NA88;Activité économique en 88 postes (NA - A88);77;Activités de location et location-bail;factor;2
+NA88;Activité économique en 88 postes (NA - A88);78;Activités liées à l'emploi;factor;2
+NA88;Activité économique en 88 postes (NA - A88);79;Activités des agences de voyage, voyagistes, services de réservation et activités connexes;factor;2
+NA88;Activité économique en 88 postes (NA - A88);80;Enquêtes et sécurité;factor;2
+NA88;Activité économique en 88 postes (NA - A88);81;Services relatifs aux bâtiments et aménagement paysager;factor;2
+NA88;Activité économique en 88 postes (NA - A88);82;Activités administratives et autres activités de soutien aux entreprises;factor;2
+NA88;Activité économique en 88 postes (NA - A88);84;"Administration publique et défense ; sécurité sociale obligatoire";factor;2
+NA88;Activité économique en 88 postes (NA - A88);85;Enseignement;factor;2
+NA88;Activité économique en 88 postes (NA - A88);86;Activités pour la santé humaine;factor;2
+NA88;Activité économique en 88 postes (NA - A88);87;Hébergement médico-social et social;factor;2
+NA88;Activité économique en 88 postes (NA - A88);88;Action sociale sans hébergement;factor;2
+NA88;Activité économique en 88 postes (NA - A88);90;Activités créatives, artistiques et de spectacle;factor;2
+NA88;Activité économique en 88 postes (NA - A88);91;Bibliothèques, archives, musées et autres activités culturelles;factor;2
+NA88;Activité économique en 88 postes (NA - A88);92;Organisation de jeux de hasard et d'argent;factor;2
+NA88;Activité économique en 88 postes (NA - A88);93;Activités sportives, récréatives et de loisirs;factor;2
+NA88;Activité économique en 88 postes (NA - A88);94;Activités des organisations associatives;factor;2
+NA88;Activité économique en 88 postes (NA - A88);95;Réparation d'ordinateurs et de biens personnels et domestiques;factor;2
+NA88;Activité économique en 88 postes (NA - A88);96;Autres services personnels;factor;2
+NA88;Activité économique en 88 postes (NA - A88);97;Activités des ménages en tant qu'employeurs de personnel domestique;factor;2
+NA88;Activité économique en 88 postes (NA - A88);98;Activités indifférenciées des ménages en tant que producteurs de biens et services pour usage propre;factor;2
+NA88;Activité économique en 88 postes (NA - A88);99;Activités des organisations et organismes extraterritoriaux;factor;2
+GS;Groupe socioprofessionnel en 6 postes;1;Agriculteur;factor;1
+GS;Groupe socioprofessionnel en 6 postes;2;Artisan, commerçant et chef d'entreprise;factor;1
+GS;Groupe socioprofessionnel en 6 postes;3;Cadres;factor;1
+GS;Groupe socioprofessionnel en 6 postes;4;Profession intermédiaire;factor;1
+GS;Groupe socioprofessionnel en 6 postes;5;Employé;factor;1
+GS;Groupe socioprofessionnel en 6 postes;6;Ouvrier;factor;1
+CS;Catégorie socioprofessionnelle en 29 postes;10;Exploitants de l'agriculture, sylviculture, pêche et aquaculture;factor;2
+CS;Catégorie socioprofessionnelle en 29 postes;21;Artisans;factor;2
+CS;Catégorie socioprofessionnelle en 29 postes;22;Commerçants et assimilés;factor;2
+CS;Catégorie socioprofessionnelle en 29 postes;23;Chefs d'entreprise de plus de 10 personnes;factor;2
+CS;Catégorie socioprofessionnelle en 29 postes;31;Professions libérales;factor;2
+CS;Catégorie socioprofessionnelle en 29 postes;33;Cadres administratifs et techniques de la fonction publique;factor;2
+CS;Catégorie socioprofessionnelle en 29 postes;34;Professeurs et professions scientifiques supérieures;factor;2
+CS;Catégorie socioprofessionnelle en 29 postes;35;Professions de l'information, de l'art et des spectacles;factor;2
+CS;Catégorie socioprofessionnelle en 29 postes;37;Cadres des services administratifs et commerciaux d'entreprise;factor;2
+CS;Catégorie socioprofessionnelle en 29 postes;38;Ingénieurs et cadres techniques d'entreprise;factor;2
+CS;Catégorie socioprofessionnelle en 29 postes;42;Professions de l'enseignement primaire et professionnel, de la formation continue et du sport;factor;2
+CS;Catégorie socioprofessionnelle en 29 postes;43;Professions intermédiaires de la santé et du travail social;factor;2
+CS;Catégorie socioprofessionnelle en 29 postes;44;Ministres du culte et religieux consacrés;factor;2
+CS;Catégorie socioprofessionnelle en 29 postes;45;Professions intermédiaires de la fonction publique (administration, sécurité);factor;2
+CS;Catégorie socioprofessionnelle en 29 postes;46;Professions intermédiaires administratives et commerciales des entreprises;factor;2
+CS;Catégorie socioprofessionnelle en 29 postes;47;Techniciens;factor;2
+CS;Catégorie socioprofessionnelle en 29 postes;48;Agents de maîtrise (hors maîtrise administrative);factor;2
+CS;Catégorie socioprofessionnelle en 29 postes;52;Employés administratifs de la fonction publique, agents de service et auxiliaires de santé;factor;2
+CS;Catégorie socioprofessionnelle en 29 postes;53;Policiers, militaires, pompiers, agents de sécurité privée;factor;2
+CS;Catégorie socioprofessionnelle en 29 postes;54;Employés administratifs d'entreprise;factor;2
+CS;Catégorie socioprofessionnelle en 29 postes;55;Employés de commerce;factor;2
+CS;Catégorie socioprofessionnelle en 29 postes;56;Personnels des services directs aux particuliers;factor;2
+CS;Catégorie socioprofessionnelle en 29 postes;62;Ouvriers qualifiés de type industriel;factor;2
+CS;Catégorie socioprofessionnelle en 29 postes;63;Ouvriers qualifiés de type artisanal;factor;2
+CS;Catégorie socioprofessionnelle en 29 postes;64;Conducteurs de véhicules de transport, chauffeurs-livreurs, coursiers;factor;2
+CS;Catégorie socioprofessionnelle en 29 postes;65;Conducteurs d'engins, caristes, magasiniers et ouvriers du transport (non routier);factor;2
+CS;Catégorie socioprofessionnelle en 29 postes;67;Ouvriers peu qualifiés de type industriel;factor;2
+CS;Catégorie socioprofessionnelle en 29 postes;68;Ouvriers peu qualifiés de type artisanal;factor;2
+CS;Catégorie socioprofessionnelle en 29 postes;69;Ouvriers agricoles, des travaux forestiers, de la pêche et de l'aquaculture;factor;2
+SEXE;Sexe;1;Hommes;factor;1
+SEXE;Sexe;2;Femmes;factor;1
+STAT;Statut professionnel;10;Salariés;factor;2
+STAT;Statut professionnel;21;Non salariés : Indépendants;factor;2
+STAT;Statut professionnel;22;Non salariés : Employeurs;factor;2
+STAT;Statut professionnel;23;Non salariés : Aides familiaux;factor;2
+TACTD16;Type d'activité détaillé en 16 postes;111;Actifs ayant un emploi exclusivement;factor;3
+TACTD16;Type d'activité détaillé en 16 postes;112;Actifs ayant un emploi s'étant déclaré chômeur;factor;3
+TACTD16;Type d'activité détaillé en 16 postes;113;Actifs ayant un emploi s'étant déclaré retraité;factor;3
+TACTD16;Type d'activité détaillé en 16 postes;114;Actifs ayant un emploi s'étant déclaré élève;factor;3
+TACTD16;Type d'activité détaillé en 16 postes;115;Actifs ayant un emploi s'étant déclaré homme ou femme au foyer;factor;3
+TACTD16;Type d'activité détaillé en 16 postes;116;Actifs ayant un emploi s'étant déclaré en autre situation;factor;3
+TP;Temps de travail;1;Temps complet;factor;1
+TP;Temps de travail;2;Temps partiel;factor;1
+TRANS;Mode de transport principal le plus souvent utilisé pour aller travailler;1;Pas de transport;factor;1
+TRANS;Mode de transport principal le plus souvent utilisé pour aller travailler;2;Marche à pied (ou rollers, patinette);factor;1
+TRANS;Mode de transport principal le plus souvent utilisé pour aller travailler;3;Vélo (y compris à assistance électrique);factor;1
+TRANS;Mode de transport principal le plus souvent utilisé pour aller travailler;4;Deux-roues motorisé;factor;1
+TRANS;Mode de transport principal le plus souvent utilisé pour aller travailler;5;Voiture, camion, fourgonnette;factor;1
+TRANS;Mode de transport principal le plus souvent utilisé pour aller travailler;6;Transports en commun;factor;1
